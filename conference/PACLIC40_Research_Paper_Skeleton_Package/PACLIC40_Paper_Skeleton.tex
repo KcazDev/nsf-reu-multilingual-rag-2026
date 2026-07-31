@@ -1,0 +1,173 @@
+\documentclass[11pt]{article}
+% PACLIC 40 requires the ACL 2026 two-column style.
+% Download acl.sty and acl_natbib.bst from the official ACL style repository
+% and place them beside this file before compiling.
+\usepackage[review]{acl}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{microtype}
+\usepackage{inconsolata}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{url}
+
+\title{From Articles to Sentences: Retrieval Granularity and Distractor Control for Multilingual RAG}
+\author{Anonymous PACLIC 40 submission}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Retrieval-augmented generation systems must recover complete evidence while preventing topically related distractors from misleading the generator. This challenge is amplified in multilingual question answering, where questions and supporting news documents may use different languages or scripts. We study how retrieval granularity and evidence budget affect multilingual RAG on a 50-question Arabic--Spanish sample from XRAG. We compare document-level BM25, token-chunk multilingual E5, reciprocal-rank fusion, and sentence-level BGE-M3 retrieval, then evaluate downstream answers under controlled retrieval conditions. Document-level BM25 retrieves complete support for 32 of 50 questions at Top-4. Sentence-level BGE-M3 increases complete-support coverage to 40 of 50 at Top-20, with 0.88 average support-article recall. In a preliminary ten-question generation study, BGE-M3 Top-20 improves a manual answer score from 16/20 at Top-10 to 18/20. Error analysis nevertheless reveals event mismatches, incorrect numbers, and unsupported additions even when support articles are represented. These results suggest that multilingual RAG requires both high-recall retrieval and explicit evidence control.
+\end{abstract}
+
+\section{Introduction}
+Retrieval-augmented generation (RAG) grounds language-model answers in external evidence \citep{lewis2020rag}. Its success, however, requires both complete evidence retrieval and robust use of that evidence in the presence of distractors. Multilingual settings add language and script mismatches between questions and evidence.
+
+XRAG supplies multilingual questions, two supporting news articles, six topically related distractors, and article-level support labels \citep{liu2025xrag}. This structure supports separate analysis of retrieval and generation. We ask:
+\begin{itemize}
+    \item[RQ1:] How does document-, chunk-, or sentence-level retrieval affect complete-support coverage?
+    \item[RQ2:] How does Top-$K$ trade off support recall against distractor exposure?
+    \item[RQ3:] Do retrieval improvements translate into more accurate and language-correct answers?
+    \item[RQ4:] Which failures remain after support coverage improves?
+\end{itemize}
+
+Our contributions are: (1) a controlled retrieval-granularity comparison; (2) an analysis showing why complete-support coverage is essential for cross-document RAG; and (3) an end-to-end error analysis motivating evidence filtering between retrieval and generation.
+
+\section{Related Work}
+\subsection{Multilingual RAG}
+XRAG evaluates cross-lingual RAG with monolingual and multilingual retrieval \citep{liu2025xrag}. Ranaldi et al. compare translation, multilingual retrieval, and document-translation pipelines \citep{ranaldi2026multilingual}. \textbf{[TODO: Add related multilingual RAG benchmarks and distractor-robustness work.]}
+
+\subsection{Retrieval Granularity}
+BM25 provides an interpretable lexical baseline \citep{robertson2009bm25}. Multilingual E5 supplies dense multilingual representations \citep{wang2024multilingual}. BGE-M3 supports multilingual and multi-granular retrieval \citep{chen2024m3}. CROSS uses sentence-level BGE-M3 retrieval to narrow long multilingual contexts \citep{bagheri2026cross}. Our focus is not introducing these methods, but comparing their granularity and evidence budgets on distractor-heavy XRAG questions.
+
+\section{Task and Data}
+Each XRAG example contains a question, gold answer, eight candidate articles, and support labels. We use 50 Arabic and Spanish questions spanning monolingual- and multilingual-retrieval conditions. Because exact support sentences are not annotated, a retrieved sentence is support-associated when it originates from a labeled support article.
+
+\textbf{[TODO: Report exact language, task, and question-type counts; sampling protocol; and random seed.]}
+
+\section{Methods}
+\subsection{Document-Level BM25}
+We rank all eight candidate articles with BM25 and evaluate Top-1 through Top-4.
+
+\subsection{Chunked Multilingual E5}
+We split articles into 400-token chunks with 80-token overlap to avoid 512-token truncation, embed questions and chunks, rank by similarity, and map chunks to source articles.
+
+\subsection{Reciprocal-Rank Fusion}
+We fuse BM25 and E5 rankings with reciprocal-rank fusion \citep{cormack2009rrf}.
+
+\subsection{Sentence-Level BGE-M3}
+We split articles into sentences, embed all sentences and the question with BGE-M3, and rank by similarity. We evaluate sentence caps $K \in \{3,5,10,20,50\}$. The current sample contains 448.1 sentence units per example on average.
+
+\subsection{Generation and Planned Evidence Filtering}
+Retrieved evidence is inserted into a controlled prompt and passed to \textbf{[TODO: exact generator/model version]}. A planned filtering stage deduplicates Top-20 sentences, limits source concentration, preserves article diversity, and reranks to a final Top-8/10 evidence set.
+
+\section{Experimental Setup}
+Retrieval metrics include support recall@$K$, complete support@$K$, any support@$K$, precision, MRR, and distractor exposure. Current generated answers use a 0--2 manual correctness rubric plus response-language and length checks.
+
+\textbf{[TODO: Add two independent annotators, inter-annotator agreement, bootstrap confidence intervals, paired tests, matched-token comparisons, and exact implementation details.]}
+
+\section{Results}
+\subsection{BM25 Retrieval}
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrr}
+\toprule
+Top-$K$ & Complete support & Recall \\
+\midrule
+1 & 7/50 & 0.25 \\
+2 & 20/50 & 0.54 \\
+3 & 25/50 & 0.65 \\
+4 & 32/50 & 0.74 \\
+\bottomrule
+\end{tabular}
+\caption{Document-level BM25 retrieval on 50 XRAG questions.}
+\label{tab:bm25}
+\end{table}
+
+BM25 improves as more documents are retained, but complete evidence remains unavailable for 18 of 50 questions at Top-4.
+
+\subsection{Dense and Hybrid Pilot}
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrrr}
+\toprule
+Retriever & P@1 & R@2 & MRR & Complete@2 \\
+\midrule
+BM25 & .700 & .625 & .773 & 10/20 \\
+Chunked E5 & .400 & .350 & .568 & 4/20 \\
+RRF & -- & -- & .685 & 8/20 \\
+\bottomrule
+\end{tabular}
+\caption{Twenty-question retrieval pilot. \textbf{[TODO: rerun all methods on the final 50-question set.]}}
+\label{tab:pilot}
+\end{table}
+
+\subsection{BGE-M3 Sentence Retrieval}
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrr}
+\toprule
+Cap & Recall & Complete & Any support \\
+\midrule
+Top-3 & .550 & 20/50 & 35/50 \\
+Top-5 & .630 & 23/50 & 40/50 \\
+Top-10 & .770 & 31/50 & 46/50 \\
+Top-20 & .880 & 40/50 & 48/50 \\
+Top-50 & 1.000 & 50/50 & 50/50 \\
+\bottomrule
+\end{tabular}
+\caption{Support-article coverage from sentence-level BGE-M3 retrieval.}
+\label{tab:bge}
+\end{table}
+
+Top-20 increases complete-support coverage to 40/50, compared with BM25 Top-4 at 32/50. Top-50 reaches all support articles but increases context and distractor exposure.
+
+\subsection{Preliminary Generation}
+\begin{table}[t]
+\centering
+\small
+\begin{tabular}{lrrr}
+\toprule
+Condition & Recall & Complete & Score \\
+\midrule
+Top-10 & .700 & 5/10 & 16/20 \\
+Top-20 & .900 & 8/10 & 18/20 \\
+\bottomrule
+\end{tabular}
+\caption{Preliminary first-ten generation comparison.}
+\label{tab:generation}
+\end{table}
+
+The initial trend suggests that greater support coverage improves answers, but the sample is too small for a definitive conclusion.
+
+\section{Error Analysis and Discussion}
+Remaining errors include event mismatch, incorrect numbers, unsupported additions, insufficient-information responses, and duplicate evidence. These failures support a two-stage design: first maximize complete support, then filter and structure the high-recall evidence set before generation.
+
+MRR can overstate readiness for cross-document QA because it measures the first relevant item. Complete-support coverage more directly reflects whether all required evidence is available.
+
+\textbf{[TODO: Add error counts, 2--3 translated qualitative examples, matched-budget analysis, and results by language and question type.]}
+
+\section{Conclusion}
+Sentence-level BGE-M3 improves support coverage over the document-level BM25 baseline in the current XRAG sample, but high recall does not eliminate generation errors. The next stage should filter and diversify retrieved sentences rather than simply expanding context.
+
+\section*{Limitations}
+The current study uses a 50-question Arabic--Spanish subset and a ten-question generation pilot. XRAG provides article-level rather than sentence-level labels. Manual scoring may be subjective, and systems have not yet been fully controlled for equal token budgets. Results may depend on the selected generator, prompt, and checkpoints.
+
+\section*{Ethical Considerations}
+Multilingual news may contain factual errors, political framing, sensitive events, and named individuals. Retrieval and generation can amplify source bias or produce unsupported claims. Evaluation should preserve provenance, document licensing and model dependencies, and avoid generalizing language differences from small nonparallel samples.
+
+% Omit acknowledgments from the anonymous review version.
+\bibliography{custom}
+\appendix
+\section{Prompts and Scoring Rubric}
+\textbf{[TODO: Add the anonymized final prompt, rubric, and examples.]}
+\section{Implementation Details}
+\textbf{[TODO: Add model checkpoints, software versions, seeds, and hyperparameters.]}
+
+\end{document}

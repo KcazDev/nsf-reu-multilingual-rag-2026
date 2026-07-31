@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-06-28T02:30:41.123948+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "prompt_version": "v2_benchmark_framing",
+  "condition": "no_documents",
+  "xrag_id": 114,
+  "language": "es",
+  "task": "mono_retrieval",
+  "question_type": "multihop",
+  "crossdoc_type": 1,
+  "question": "¿Qué objetivos militares puede atacar ahora Ucrania en Rusia a pesar de las restricciones estadounidenses sobre los ATACMS?",
+  "gold_answer": "Ucrania puede ahora atacar las defensas aéreas y los sistemas de misiles rusos dentro de Rusia, a pesar de las restricciones estadounidenses al uso de ATACMS.",
+  "model_answer": "No puedo responder esta pregunta basándome en documentos de noticias disponibles, ya que no hay fuentes recuperadas para proporcionar información factual verificada sobre este tema.\n\nPara obtener una respuesta precisa sobre las políticas actuales de restricciones estadounidenses en el uso de ATACMS por parte de Ucrania, le recomiendo consultar fuentes de noticias confiables recientes.",
+  "input_tokens": 123,
+  "output_tokens": 100
+}

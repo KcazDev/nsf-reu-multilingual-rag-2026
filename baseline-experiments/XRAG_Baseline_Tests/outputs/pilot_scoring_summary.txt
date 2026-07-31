@@ -1,0 +1,55 @@
+XRAG PILOT SCORING SUMMARY
+===========================================================================
+
+Total scored responses: 60
+
+RESULTS BY RETRIEVAL CONDITION
+---------------------------------------------------------------------------
+
+Condition: no_documents
+  Responses: 20
+  Average correctness score: 0.45 out of 2
+  Percentage of possible points: 22.5%
+  Fully correct scores (2): 3
+  Partially correct scores (1): 3
+  Incorrect scores (0): 14
+  Refusals: 9 (45.0%)
+  Correct-language responses: 20 (100.0%)
+  Responses with unsupported information: 11 (55.0%)
+
+Condition: support_only
+  Responses: 20
+  Average correctness score: 1.35 out of 2
+  Percentage of possible points: 67.5%
+  Fully correct scores (2): 10
+  Partially correct scores (1): 7
+  Incorrect scores (0): 3
+  Refusals: 0 (0.0%)
+  Correct-language responses: 20 (100.0%)
+  Responses with unsupported information: 4 (20.0%)
+
+Condition: all_documents
+  Responses: 20
+  Average correctness score: 1.00 out of 2
+  Percentage of possible points: 50.0%
+  Fully correct scores (2): 7
+  Partially correct scores (1): 6
+  Incorrect scores (0): 7
+  Refusals: 1 (5.0%)
+  Correct-language responses: 19 (95.0%)
+  Responses with unsupported information: 11 (55.0%)
+
+
+RESULTS BY CONDITION AND LANGUAGE
+---------------------------------------------------------------------------
+no_documents    | Language: ar | Responses: 10 | Average: 0.70/2 | Points: 35.0%
+no_documents    | Language: es | Responses: 10 | Average: 0.20/2 | Points: 10.0%
+support_only    | Language: ar | Responses: 10 | Average: 1.40/2 | Points: 70.0%
+support_only    | Language: es | Responses: 10 | Average: 1.30/2 | Points: 65.0%
+all_documents   | Language: ar | Responses: 10 | Average: 1.00/2 | Points: 50.0%
+all_documents   | Language: es | Responses: 10 | Average: 1.00/2 | Points: 50.0%
+
+
+BEST CONDITION
+---------------------------------------------------------------------------
+Highest average score: support_only with 1.35 out of 2.

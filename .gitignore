@@ -240,3 +240,19 @@ huggingface_cache/
 # Full XRAG source dataset - download separately
 data/xrag.dev.jsonl
 outputs/v3_generation_top12_max4_prompt2/v3_filtered_top12_generation_review (2).csv
+
+# Nested project exclusions
+**/.env
+**/.venv/
+**/venv/
+**/.idea/
+**/__pycache__/
+**/node_modules/
+**/xrag.dev.jsonl
+**/*.pyc
+**/*.pyo
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.onnx
+**/*.safetensors

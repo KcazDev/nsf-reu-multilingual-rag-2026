@@ -1,0 +1,29 @@
+GPT-5.4 RETRIEVAL CONDITION COMPARISON
+========================================================================
+
+Condition                Score     Percent    Full   Partial   Wrong   Unsupported
+----------------------------------------------------------------------------------
+no_documents             27/40       67.5%      12         3       5             8
+support_only             30/40       75.0%      12         6       2             2
+all_documents            26/40       65.0%      10         6       4             9
+bm25_top2                31/40       77.5%      14         3       3             6
+
+KEY COMPARISONS
+========================================================================
+BM25 Top-2 versus no documents: +10.0 percentage points
+BM25 Top-2 versus all documents: +12.5 percentage points
+BM25 Top-2 versus oracle support only: +2.5 percentage points
+
+BM25 TOP-2 ERROR CATEGORIES
+========================================================================
+No error — fully correct: 14
+Incomplete answer: 3
+Distractor contamination: 1
+Wrong central answer: 1
+Wrong number or count: 1
+
+RESEARCH INTERPRETATION
+========================================================================
+BM25 Top-2 produced the highest GPT-5.4 correctness score in this 20-question pilot.
+The filtered BM25 condition outperformed the all-document condition, supporting the conclusion that removing distractor evidence can improve answer generation.
+The result does not prove that BM25 is superior to oracle retrieval because the sample is small and GPT-5.4 sometimes answered correctly even when BM25 did not retrieve all XRAG-labeled support documents.

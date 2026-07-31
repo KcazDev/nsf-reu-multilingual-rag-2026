@@ -1,0 +1,38 @@
+XRAG MANUAL SCORING RUBRIC
+============================================================
+
+CORRECTNESS SCORE
+
+2 = Fully correct
+The response contains all essential information from the gold answer.
+Minor wording differences are acceptable.
+
+1 = Partially correct
+The response contains some correct information, but misses an important
+detail, adds a meaningful error, or is too vague.
+
+0 = Incorrect
+The response gives the wrong answer, refuses to answer, does not address
+the question, or provides no useful answer.
+
+REFUSAL
+
+yes = The model refuses or avoids answering the factual question.
+no = The model attempts to answer the question.
+
+CORRECT LANGUAGE
+
+yes = The response is written in the same language as the question.
+no = The response is primarily in another language or mixes languages
+in a way that affects answer quality.
+
+UNSUPPORTED INFORMATION
+
+yes = The response adds claims not supported by the gold answer or
+relevant retrieved documents.
+no = The response stays within the supported facts.
+
+REVIEW NOTES
+
+Briefly explain why the response received its score. Mention missing
+facts, incorrect facts, refusals, language problems, or distractor use.

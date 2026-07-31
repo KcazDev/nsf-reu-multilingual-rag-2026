@@ -1,0 +1,1804 @@
+XRAG PILOT SAMPLE PREVIEW
+==========================================================================================
+Total examples: 20
+
+
+##########################################################################################
+EXAMPLE 1 OF 20
+##########################################################################################
+XRAG ID: 114
+Language: es
+Task: mono_retrieval
+Question type: multihop
+Answer type: original
+Cross-document type: 1
+Article order: [1, 6, 5, 0, 7, 3, 2, 4]
+Support labels: [2, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué objetivos militares puede atacar ahora Ucrania en Rusia a pesar de las restricciones estadounidenses sobre los ATACMS?
+
+GOLD ANSWER:
+Ucrania puede ahora atacar las defensas aéreas y los sistemas de misiles rusos dentro de Rusia, a pesar de las restricciones estadounidenses al uso de ATACMS.
+
+ENGLISH QUESTION:
+What military targets can Ukraine now engage in Russia despite U.S. restrictions on ATACMS?
+
+ENGLISH GOLD ANSWER:
+Ukraine can now engage Russian air defenses and missile systems within Russia, despite U.S. restrictions on using ATACMS.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-07-04 11:45:03+00:00
+URL: https://www.businessinsider.com/west-new-permissions-mean-ukraine-can-actually-fight-experts-2024-7
+Preview:
+Ukraine's allies have given it new permissions to hit military targets in Russia. The shift threatens Russia's ability to launch strikes and stage attacks with impunity from within its borders. Experts say Ukraine can now begin to fight properly. With new permissions giving Ukraine more ways to use its weaponry, including striking into Russia, the West is finally giving it a chance to fight back against Russia properly, experts say. From the start of Russia's full-scale invasion in February 2022 until recently, Ukraine had been forbidden by partner nations from using Western weaponry for attacks on Russian territory. Those restrictions, which Russia fights without, put Ukraine at a serious d...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-06-23 04:02:16+00:00
+URL: https://www.independent.co.uk/news/world/americas/russia-ap-vladimir-putin-north-korea-pyongyang-b2567261.html
+Preview:
+Behind the smiles, the balloons and the red-carpet pageantry of President Vladimir Putin's visit to North Korea last week, a strong signal came through: In the spiraling confrontation with the U.S. and its allies over Ukraine, the Russian leader is willing to challenge Western interests like never before. The pact that he signed with North Korean leader Kim Jong Un envisions mutual military assistance between Moscow and Pyongyang if either is attacked. Putin also announced for the first time that Russia could provide weapons to the isolated country, a move that could destabilize the Korean Peninsula and reverberate far beyond. He described the potential arms shipments as a response to NATO a...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-11-20 00:00:00
+URL: https://www.outlookindia.com/brand-studio/blogs/why-has-the-us-allowed-ukraine-to-use-atacms-missiles-inside-russia-and-what-does-it-mean-for-the-war
+Preview:
+The U.S. decision to lift restrictions on Ukraine’s use of ATACMS (Army Tactical Missile Systems) for strikes inside Russian territory marks a pivotal shift in Western support for Ukraine amidst the ongoing conflict. These long-range ballistic missiles, capable of striking targets up to 300 kilometers away, were previously limited to use within Ukrainian territory. Now, Ukraine has been granted initial permission to target Russian forces massing in the Kursk region. This change has significant military and geopolitical implications, particularly as global dynamics shift with an incoming U.S. administration in January 2025. Understanding the Policy Change The Biden administration’s decision t...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-06-03 12:00:00
+URL: https://oilprice.com/Geopolitics/International/Biden-Administration-Approves-Limited-Ukrainian-Strikes-in-Russia.html
+Preview:
+The shift is limited in scope, allowing Ukrainian forces to use short-range missiles from HIMARS launchers, or artillery, to hit command-and-control posts, arms depots, and other military targets used as part of the Kharkiv offensive. Ukraine will still be barred from using longer-range surface-to-surface missiles known as ATACMS against targets inside Russia. U.S. President Joe Biden “recently directed his team to ensure that Ukraine is able to use U.S.-supplied weapons for counter-fire purposes in the Kharkiv region so Ukraine can hit back against Russian forces that are attacking them or preparing to attack them,” a U.S. official told RFE/RL. “Our policy with respect to prohibiting the us...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-11-18 12:41:59
+URL: https://abcnews.go.com/International/bidens-ukraine-atacms-green-light-peace-talks-pressure/story?id=115960569
+Preview:
+LONDON -- Ukraine is expected to soon begin using American-made ATACMS missiles to hit military targets in Russia's western Kursk region, after President Joe Biden lifted restrictions on Kyiv's use of the long-range weapon following months of pressure. Three U.S. officials confirmed to ABC News on Sunday that Biden had authorized Ukraine to use the ATACMS -- officially called the MGM-140 Army Tactical Missile System -- in Russia's western Kursk region. There, Moscow's troops -- now supported by North Korean forces, according to U.S. officials -- have been fighting to defeat a Ukrainian incursion since August. Kyiv's forces in Kursk are already using American- and European-made armored vehicl...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-06-01 16:33:54
+URL: https://www.yahoo.com/news/us-tells-ukraine-t-atacms-163354723.html
+Preview:
+The White House has confirmed that Ukraine cannot use US-supplied long-range ATACMS missiles inside Russia. President Joe Biden this week gave Ukraine permission to strike inside Russian territory with American munitions – but under certain conditions. A White House spokesperson said: “This does not apply to ATACMS or long-range strikes, but it is designed to enable Ukraine to defend itself.” It is the second time this year that Mr Biden has quietly relaxed his policy on weapons supplies for Ukraine, bending to calls to send long-range missiles known as ATACMS to Kyiv. Outgunned and outmanned on the battlefield, Kyiv has been increasing pressure on its Western allies to be able to launch off...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-19 00:00:00
+URL: https://menafn.com/1108899952/Why-Did-The-US-Change-Its-Mind-On-Ukraine-Firing-Missiles-Into-Russia-And-Will-It-Impact-The-War
+Preview:
+(MENAFN- The Conversation) The lifting of US restrictions on the use of ATACMS ballistic missiles by Ukraine may help it repel Russian forces trying to retake Russian territory seized by Ukraine earlier this year. It could also strengthen Ukraine's hand ahead of US President-elect Donald Trump's arrival in the White House in January. It may, however, be another case of too little, too late in Western support for Ukraine. This week, the Biden Administration lifted restrictions on Ukraine's use of US-supplied missiles known as ATACMS (Army Tactical Missile Systems). ATACMS have a range of around 300 kilometres. Previously, the US has told Ukraine only to use them against Russian forces on Ukra...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-11-18 14:29:39
+URL: https://kstp.com/associated-press/ap-us-international/what-does-bidens-decision-to-allow-ukraine-to-use-longer-range-us-weapons-mean/
+Preview:
+KYIV, Ukraine (AP) — The U.S. will allow Ukraine to use American-supplied longer-range weapons to conduct strikes deeper inside Russian territory, a long-sought request by Kyiv. It isn’t yet clear if there are limits on Ukraine’s use of the Army Tactical Missile System, or ATACMS, as there have been on other U.S. missile systems. Their deployment could — at least initially — be limited to Russia’s Kursk region, where Ukrainian troops seized territory earlier this year. Since the first year of the war, Ukrainian leaders have lobbied Western allies to allow them to use advanced weapons to strike key targets inside Russia — which they hope would erode Moscow’s capabilities before its troops rea...
+
+##########################################################################################
+EXAMPLE 2 OF 20
+##########################################################################################
+XRAG ID: 156
+Language: ar
+Task: multi_retrieval
+Question type: set
+Answer type: original
+Cross-document type: 2
+Article order: [1, 5, 3, 2, 0, 7, 6, 4]
+Support labels: [1, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+ما المجموعات المتورطة في الصراعات في ميانمار والسودان؟
+
+GOLD ANSWER:
+في ميانمار، تشمل الجماعات المشاركة في الصراعات جيش أراكان والمجلس العسكري، حيث يقع المدنيون من الروهينجا ضحايا للعنف. وفي السودان، يشمل الصراع القوات المسلحة السودانية وقوات الدعم السريع.
+
+ENGLISH QUESTION:
+What groups are involved in conflicts in Myanmar and Sudan?
+
+ENGLISH GOLD ANSWER:
+In Myanmar, the groups involved in conflicts include the Arakan Army and the military junta, with the Rohingya civilians being victims of violence. In Sudan, the conflict involves the Sudanese Armed Forces and the Rapid Support Forces.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 1
+Publication date: 2024-08-11 22:10:37
+URL: https://www.smh.com.au/world/asia/hundreds-including-women-and-children-killed-in-drone-attacks-while-fleeing-myanmar-20240812-p5k1k0.html?ref=rss&utm_medium=rss&utm_source=rss_world
+Preview:
+Warning: Graphic content Bangkok: Survivors of what appears to be a massacre of civilians in Myanmar have recounted seeing hundreds of people, including an unknowable number of children, slaughtered in indiscriminate drone attacks near the water border with Bangladesh. Squeezed to the riverbanks by the deadly shelling of Maungdaw town in Rakhine State, members of the Rohingya Muslim minority claimed they were targeted by the Arakan Army (AA), a powerful ethnic group warring with both the military junta and “extremist Muslim armed groups”. The attacks happened on August 5, but details are now only starting to emerge, such is the chaos of civil war in Myanmar and the inability of non-governmen...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-07-29 15:11:43
+URL: https://arabic.cnn.com/middle-east/article/2024/07/29/sudan-widespread-sexual-violence-report
+Preview:
+(CNN)-- تنام إحدى النساء بسكين تحت وسادتها، على أمل أن تتمكن من حماية نفسها من الرجال المسلحين الذين قد يقتحمون منزلها ليلا. وتعرضت أخرى للاغتصاب "مرات عديدة لعدة أيام" مع بناتها الأربع، بينما أُجبر زوجها وأبناؤها على المشاهدة. وطُردت أخرى من منزلها وفُصلت عن أطفالها بعدما اكتشف زوجها أنها أصبحت حاملا نتيجة الاغتصاب. هذه بعض من الروايات المروعة عن العنف الجنسي الذي يتم ارتكابه ضد النساء والفتيات في السودان من قبل الأطراف المتحاربة في الدولة الواقعة في شرق إفريقيا- وخاصة قوات الدعم السريع شبه العسكرية- في العاصمة الخرطوم منذ بدء القتال العام الماضي، كما جاء بالتفصيل في تقرير صادر عن منظمة "هيومن رايتس ووتش". ومنذ اندلاع الحرب الأهلية في أبريل/نيسان 2023 بين القوات المسلحة السودانية وقوات الدع...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-09-02 12:08:01
+URL: https://www.defenceweb.co.za/african-news/is-peace-possible-between-sudans-warring-parties/
+Preview:
+Ever since conflict erupted in Sudan on 15 April 2023, the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) have been engaged in an attritional war, with support from various armed allies and proxy actors. The war is complicated by power struggles and ideological differences at both domestic and international levels, and has ethnic undertones. Can multiparty negotiations resolve the conflict that has killed an estimated 16 000 people and displaced millions? And how feasible would talks be, given the zero-sum stakes involved? The SAF and RSF have numerous armed and unarmed allies that can become significant forces in their own right. The two are also proxies for a network of interna...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-09-02 12:21:56
+URL: https://allafrica.com/stories/202409020525.html
+Preview:
+Achieving lasting peace requires parties to negotiate with adversaries - no matter how difficult this may be. Ever since conflict erupted in Sudan on 15 April 2023, the Sudanese Armed Forces (SAF) and Rapid Support Forces (RSF) have been engaged in an attritional war, with support from various armed allies and proxy actors. The war is complicated by power struggles and ideological differences at both domestic and international levels, and has ethnic undertones. Can multiparty negotiations resolve the conflict that has killed an estimated 16 000 people and displaced millions? And how feasible would talks be, given the zero-sum stakes involved? The SAF and RSF have numerous armed and unarmed a...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-09-09 00:00:00
+URL: https://www.hrw.org/news/2024/09/09/sudan-abusive-warring-parties-acquire-new-weapons
+Preview:
+(New York, September 9, 2024) – The Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), warring parties responsible for widespread war crimes and other atrocities in the current conflict in Sudan, have newly acquired modern foreign-made weapons and military equipment, Human Rights Watch said in a report released today. The United Nations Security Council should renew and expand the arms embargo and its restrictions on the Darfur region to all of Sudan and hold violators to account. “Sudan’s conflict is one of the world’s worst humanitarian and human rights crises, with warring parties committing atrocities with impunity, and newly acquired weapons and equipment are likely to be u...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-06-15 16:07:00
+URL: https://www.islamtimes.org/ar/news/1141936/%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D8%A3%D9%85%D9%85%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%A7%D9%84%D9%88%D8%B3%D8%B7%D9%89-%D8%AE%D8%B7-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D9%84%D8%AA%D8%AC%D9%86%D9%8A%D8%AF-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D9%8A%D9%86
+Preview:
+وأشار تقرير لجنة الخبراء، الذين كلفهم مجلس الأمن الدولي مراقبة نظام العقوبات في أفريقيا الوسطى، إلى أن النزاع الذي اندلع في أبريل 2023 في السودان، بين الجيش بقيادة عبد الفتاح البرهان وقوات الدعم السريع بقيادة محمد حمدان دقلو، كانت له "تداعيات كبيرة على الوضع في جمهورية أفريقيا الوسطى". وتطرق التقرير خصوصاً إلى الوضع الإنساني، متحدثاً عن تدفق آلاف اللاجئين السودانيين، فضلاً عن "توغلات في أراضي أفريقيا الوسطى" من جانب طرفي النزاع في السودان، وخاصة في محيط معبر أم دافوق الحدودي الذي تسيطر عليه قوات الدعم السريع. وحذر الخبراء من أن هذا الأمر "ما زال يشكل تهديداً لأمن المدنيين ويعوق الأنشطة الإنسانية في المنطقة". ولفت التقرير إلى أن قوات الدعم السريع تستخدم منطقة أم دافوق على الجانب الآخر من الحد...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-27 13:23:44
+URL: https://www.swissinfo.ch/ara/%D8%AE%D9%85%D8%B3%D8%A9-%D9%86%D8%B2%D8%A7%D8%B9%D8%A7%D8%AA-%D9%85%D9%86%D8%B3%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-2024/88352245
+Preview:
+إلى جانب الحربين اللتين تصدرتا عناوين الأخبار بانتظام خلال العام 2024، في الشرق الأوسط وأوكرانيا، يستمر العديد من النزاعات التي لا تحظى بالقدر نفسه من التغطية الإعلامية في أماكن عديدة في العالم، وفي ما يأتي خمسة منها. – السودان – يشهد السودان منذ نيسان/أبريل 2023 حربا بين القوات شبه العسكرية والجيش. وقد تسبب الصراع، الذي تعتبره الأمم المتحدة أحد أسوأ الكوارث الإنسانية في التاريخ الحديث، في مقتل ما بين 20 ألف و150 ألف شخص بالإضافة إلى ما يقدر بنحو 11 مليون نازح. ويضاف إلى تداعيات هذا النزاع المتواصل، شبح المجاعة،إ ذ يحتاج 26 مليون شخص، أي حوالي نصف السكان، إلى المساعدات الغذائية بشكل متواصل. ووجهت مراراً وتكراراً اتهامات للأطراف المتنازعة بارتكاب جرائم حرب لاستهدافهم المدنيين عمداً. وفي نهاية...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-09-09 13:05:07
+URL: https://www.aljazeera.net/news/2024/9/9/%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D9%81%D9%82%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%B7%D8%B1%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D8%B1%D8%A7%D9%8A%D8%AA%D8%B3-%D9%88%D9%88%D8%AA%D8%B4
+Preview:
+قالت هيومن رايتس ووتش إن الجيش السوداني وقوات الدعم السريع حصلت مؤخرا على أسلحة ومعدات عسكرية حديثة من صنع أجنبي، وإن الطرفين مسؤولان عن "جرائم حرب واسعة النطاق وفظائع أخرى" في الصراع الحالي. وحثت المنظمة الحقوقية مجلس الأمن التابع للأمم المتحدة على توسيع حظر الأسلحة المفروض على منطقة دارفور ليشمل جميع أنحاء السودان، وعلى محاسبة المخالفين. ووفق ووتش فإن صراع السودان يعد "أحد أسوأ الأزمات الإنسانية وحقوق الإنسان في العالم، حيث ترتكب الأطراف المتحاربة فظائع دون عقاب". وتقول المنظمة إنه من المرجح أن تُستخدم الأسلحة والمعدات المكتسبة حديثا في ارتكاب المزيد من الجرائم. وذكرت -في تقريرها الصادر اليوم الاثنين- أن مقاتلين من الجيش السوداني وقوات الدعم السريع نشروا منذ منتصف عام 2023 صورًا ومقاطع فيد...
+
+##########################################################################################
+EXAMPLE 3 OF 20
+##########################################################################################
+XRAG ID: 1119
+Language: ar
+Task: mono_retrieval
+Question type: set
+Answer type: original
+Cross-document type: 1
+Article order: [1, 7, 6, 3, 4, 0, 2, 5]
+Support labels: [2, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+ما الخصائص المرتبطة بجينيفر لوبيز وبن أفليك في عام 2023؟
+
+GOLD ANSWER:
+في عام 2023، ارتبطت جينيفر لوبيز وبن أفليك بقصر في منطقة بيل إير بقيمة 60 مليون دولار. تقيم لوبيز في قصر بيل إير، بينما يعيش أفليك في منزل مستأجر بقيمة 100 ألف دولار شهريًا بالقرب من زوجته السابقة جينيفر جارنر.
+
+ENGLISH QUESTION:
+what properties are associated with jennifer lopez and ben affleck in 2023?
+
+ENGLISH GOLD ANSWER:
+In 2023, Jennifer Lopez and Ben Affleck are associated with a $60 million Bel-Air mansion. Lopez is residing in the Bel-Air mansion, while Affleck is living in a $100,000-a-month rental near his ex-wife Jennifer Garner.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-07-01 17:59:11+01:00
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13589099/Jennifer-Lopez-Ben-Affleck-selling-art-work-mansion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+Jennifer Lopez and estranged husband Ben Affleck - who have not been pictured together in almost one month - are reportedly selling off art work from inside their $60M mansion in Bel-Air, California. The house was listed for $65M last month. And now it seems some of the pricy stuff inside the boxy white two story, 12-bedroom building - referred to as the 'Wallingford estate' - is getting the heave-ho as well. PageSix claimed on Monday morning that items like painting and 'other items' were sold off to collectors in early June. The lovebirds have not been seen in public together since June 2 when they had an awkward cheek kiss at his son Samuel's basketball game in Los Angeles. This comes day...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-07-11 23:18:06+01:00
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13625729/Ben-Affleck-wedding-ring-tense-Jennifer-Lopez-marriage.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+Ben Affleck had his wedding ring back on when he surfaced in Los Angeles Thursday - days after ditching the band amid his marital woes with Jennifer Lopez. Trailed by claims that his marriage has been 'over for months,' Affleck, 51, was seen this Tuesday with his left hand completely bare. However, when he was spotted out and about two days later, the wedding band had strikingly reappeared on his finger. The Argo director was wearing a tense expression as he crossed a parking lot, looking down and massaging his forehead. He was clad in dapper business attire, including a navy suit combined with a true blue dress shirt that he wore without a tie. The outing comes days after it was claimed tha...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-06-01 19:15:17
+URL: https://www.nickiswift.com/1592057/awkward-jennifer-lopez-ben-affleck-moments-caught-on-camera/
+Preview:
+Jennifer Lopez and Ben Affleck were one of the first Tinseltown couples to receive the portmanteau treatment. Their initial union in 2002 coined the term "Bennifer." But like Brangelina (Brad Pitt and Angelina Jolie), Kimye (Kim Kardashian and Kanye West), and TomKat (Tom Cruise and Katie Holmes), the linguistic blend appeared to jinx things, and by 2004, the A-listers had gone their separate ways. But in the kind of twist usually reserved for Hollywood fairytales, Affleck and Lopez reunited in 2021 and, a year later, walked down the aisle for marriages number two and four, respectively. Sadly, the happy ending still seems to be elusive for the on-off pair. In 2024, gossip began circulating ...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-09-26 15:20:52
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13894941/Jennifer-Lopez-shows-Ben-Affleck-hes-missing.html
+Preview:
+Jennifer Lopez seemed to be showing ex Ben Affleck what he was missing with a new Instagram post. The 55-year-old triple threat uploaded a sexy pinup image from the gym to her JLo Beauty Instagram page. The snapshot was taken five years ago as she modeled workout clothing from Niyamasol. The caption was about how inspiring the Atlas actress is the the blockbuster beauty brand which sells cleansers, toners and lotions. Meanwhile, the Bronx beauty has been working through her divorce with Affleck with prominent lawyer Laura Wasser who is pals with Kim Kardashian. Laura, who worked with Ben when he split from Jennifer Garner, has been helping the exes mediate their 'tricky' divorce, according t...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-08-25 04:00:20
+URL: https://www.foxnews.com/entertainment/jennifer-lopez-may-have-take-page-out-elizabeth-taylors-playbook-upcoming-movie-ben-affleck
+Preview:
+Jennifer Lopez and Ben Affleck's marriage may be done, but the duo's professional relationship is far from over. The former couple — who previously starred alongside one another in "Gigli" (2003) and "Jersey Girl" (2004) — both worked on an American biographical sports drama film, titled "Unstoppable," which wrapped earlier this year and is expected to premiere on Sept. 6 at the Toronto International Film Festival, according to TIFF's official site. The movie — which tells the story of Anthony Robles, a wrestler born with one leg — was produced by Affleck's company that he co-founded with Matt Damon, Artists Equity, and stars Lopez as Robles' mother. Although both stars worked on the film, s...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-08-08 18:16:30
+URL: https://www.pinkvilla.com/entertainment/hollywood/a-complete-list-of-jennifer-lopezs-relationships-over-the-years-1337003
+Preview:
+Jennifer Lopez is well-known for her successful career in music and film, but she has also made headlines for her high-profile relationships. Lopez has had many famous relationships, including marriages, engagements, and rumored flings. Her love life has sparked interest, particularly since her recent reunion with Ben Affleck. Here's a look at Jennifer Lopez's romantic history, covering all of her relationships from the past to the present. Jennifer Lopez’s relationships complete timeline: Ben Affleck (2021—Present) Jennifer Lopez and Ben Affleck rekindled their romance in April 2021, nearly two decades after breaking off their first engagement. Their relationship grew quickly, and Affleck p...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-08-22 21:45:13
+URL: https://www.deseret.com/entertainment/2024/08/22/long-hollywood-celebrity-marriages/
+Preview:
+Following months of reports alleging a rocky relationship, Jennifer Lopez has filed for divorce from Ben Affleck, according to The New York Times. The couple, playfully nicknamed “Bennifer” by the public, ended an engagement in 2004, but rekindled in April 2021 and were married in July 2022, per NBC News. Bennifer fans suspected something was awry when J.Lo cancelled her summer “greatest hits” tour earlier this year, per The Washington Post. Months later, the couple officially broke up. Lopez and Affleck aren’t the only Hollywood couple to split up in the past year. There have been dozens — Sophie Turner and Joe Jonas, Hugh Jackman and Deborra-lee Jackman, Joshua Jackson and Jodie Turner-Smi...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-08-23 23:08:17
+URL: https://hunterharris.substack.com/p/bennifer-back-to-the-streets
+Preview:
+This weekend in the Hung Up chat: catch up on Love Is Blind UK and/or watch the latest Industry ep with us! Rest in peace Bennifer Redux, the genuinely iconic re-coupling that involved a lot of giggling and carrying on from May 2021 until approximately April 2024. The whirlwind it’s-2004-again love story between Jennifer Lopez and Ben Affleck came to its official end on Tuesday, their second wedding anniversary, when Lopez filed to end their two-year marriage. “J Lo filed legal docs Tuesday in L.A. County Superior Court, but they were not filed by a lawyer,” per TMZ, which broke the news. “Jennifer filed pro per, meaning by herself and without an attorney.” It has been a summer of waiting fo...
+
+##########################################################################################
+EXAMPLE 4 OF 20
+##########################################################################################
+XRAG ID: 1037
+Language: es
+Task: mono_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 0
+Article order: [5, 3, 6, 2, 7, 1, 4, 0]
+Support labels: [0, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿A cuántos grupos arma Irán a pesar de su afiliación sunita?
+
+GOLD ANSWER:
+Irán arma a dos grupos a pesar de su afiliación sunita: Hamás y la Yihad Islámica.
+
+ENGLISH QUESTION:
+How many groups does Iran arm despite their Sunni affiliation?
+
+ENGLISH GOLD ANSWER:
+Iran arms two groups despite their Sunni affiliation: Hamas and Islamic Jihad.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 0
+Publication date: 2024-08-17 08:00:00+00:00
+URL: https://inews.co.uk/opinion/the-secret-channels-britain-could-use-to-stop-iran-attacking-israel-3230609
+Preview:
+There could scarcely be a more horrifying scenario – an intense Iranian missile and drone attack on Israel that causes mass casualties and sets ablaze the entire Middle East. It would draw in numerous other foreign powers – including America, China and Russia – and send seismic shockwaves through the global economy.This could come true within hours. Iran has made threats of retaliation following the killing by Israel of Hamas’s top political leader, Ismail Haniyeh, in Tehran on 31 July. Is there anything that the UK can do to prevent it from happening? Can the UK influence what the Tehran regime does next? The UK certainly has good reasons to want to influence Iran. This is partly because of...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-08-06 16:13:25+02:00
+URL: https://www.euronews.com/2024/08/06/who-are-iran-armed-proxies-that-could-play-a-key-role-in-retaliatory-strikes-against-israe
+Preview:
+As Iran vows to retaliate against Israel for its alleged assassination of Hamas leader Ismail Haniyeh in its territory, Tehran may make use of militias and regional allies to exact revenge. The suspected Israeli assassination of Ismail Haniyeh sent shockwaves across the Middle East — not least in Iran, where the predawn airstrike against the Hamas leader took place. Though Israel has not claimed responsibility for killing Haniyeh, Tehran has threatened to answer for his death in kind in a region already ravaged by the Israel-Hamas war. "The Islamic Republic of Iran is in no way seeking to expand the scope of war and crisis in the region, but this (Israel) regime will definitely receive a res...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-10-03 16:52:20
+URL: https://www.newsx.com/world/could-iran-funding-its-proxies-be-the-next-key-strategy-against-israel-everything-decoded-newsx-exclusive/
+Preview:
+In the four decades since the Islamic Revolution, Iran has built and supported a growing network of allied militant groups across the Middle East. The Quds Force, which is part of the Islamic Revolutionary Guard Corps (IRGC), plays a crucial role as the main link with these groups. They provide training, weapons, and funding to help achieve Iran’s regional objectives. Iran’s armed forces have about 610,000 active personnel and 350,000 in reserve. Most of Iran’s main proxies are fighting forces from Shia-majority countries like Iraq and Lebanon. However, there are also groups from Sunni-majority areas such as Palestinian territories, Syria, and Yemen that have formed connections with Iran. At...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-10-14 14:07:17
+URL: https://www.bnnbloomberg.ca/business/politics/2024/10/14/where-the-revolutionary-guard-fits-in-iran-israel-conflict/
+Preview:
+(Bloomberg) -- The Islamic Revolutionary Guard Corps has been at the center of Iran’s regional and defense policy for almost half a century. Founded shortly after the 1979 Islamic revolution with the main purpose of protecting the nascent Islamic regime and especially its clerical leadership, it’s grown into the most powerful branch of Iran’s military and has both vast economic holdings and substantial influence on Iranian politics. The Guard, considered a terrorist organization by the US, has also been the driving force behind Supreme Leader Ayatollah Ali Khamenei’s foreign ambitions. It seeks to exert Iranian influence and to challenge US and Israeli interests in the region surrounding Ira...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-06-26 18:09:41
+URL: https://yalibnan.com/2024/06/26/us-imposes-sanctions-on-dozens-of-people-entities-accused-of-moving-billions-for-irans-military/?utm_source=rss&utm_medium=rss&utm_campaign=us-imposes-sanctions-on-dozens-of-people-entities-accused-of-moving-billions-for-irans-military
+Preview:
+REUTERS FILE PHOTO: U.S. Deputy Treasury Secretary Wally Adeyemo By Daphne Psaledakis WASHINGTON (Reuters) -The United States on Tuesday imposed sanctions on nearly 50 entities and people it accused of moving billions of dollars for Iran’s military. The U.S. Treasury Department in a statement said those targeted on Tuesday constitute a “shadow banking network” used by Iran’s Ministry of Defense and Armed Forces Logistics (MODAFL) and Islamic Revolutionary Guard Corps (IRGC), both of which are under U.S. sanctions. The network helped the MODAFL and IRGC – which earn money notably from the sale of oil and petrochemicals – gain access to the international financial system and process the equiva...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-09-25 13:58:00
+URL: https://www.startribune.com/attacks-between-israel-and-lebanons-hezbollah-raise-fears-of-a-wider-mideast-war-with-iran-proxies/601151341
+Preview:
+Iran's policy of arming militias took root in the aftermath of the 1979 Islamic Revolution. Before it, the U.S. provided major weapon systems including F-14 Tomcat fighter jets to the government of Shah Mohammad Reza Pahlavi. After the revolution and the U.S. Embassy hostage crisis, those shipments and needed maintenance programs stopped. Iran's eight-year war with Iraq in the 1980s destroyed much of its arsenal. International sanctions on Iran, including over its nuclear program, also have kept it from receiving new arms while Israel and Gulf Arab states allied with the U.S. have received advanced weapons. While developing its own missile program, Iran can't match those sophisticated weapon...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-10-25 04:00:20
+URL: https://www.foxnews.com/world/secret-iranian-missile-storage-site-exposed-anti-regime-group-amid-mounting-regional-tensions
+Preview:
+A leading Iranian dissident group, the People’s Mojahedin of Iran (MEK), has provided Fox News Digital with information about a secret site where the Islamic Republic of Iran allegedly stores and prepares the missiles it uses against foes, sells to allies and provides to its proxies. Located in a mountainous region outside of Eshtehard City, northwest of Tehran in Alborz province, the camp, known as the Shahid (Martyr) Soltani Garrison, is heavily guarded and surrounded by two rows of barbed wire. It has purportedly seen increased activity in the latter part of 2024, with the MEK noting that "more than ten trailers carrying missile parts" passed into the camp in July. Among the weapons store...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-11-14 00:00:00
+URL: http://www.coastaldigest.com/middle-east-top-story/israel-completely-erased-over-1400-palestinian-families-gaza-health-ministry
+Preview:
+Iran’s Islamic Revolution Guards Corps (IRGC) has killed or captured 69 terrorists linked to the Israeli spy agency Mossad during a major counterterrorism drill in the country's southeast, its spokesman says. General Ahmad Shafaei, the spokesman for the “Martyrs of Security” drill, said Friday that a total of 23 terrorists have been killed and another 46 arrested in various clean-up operations ever since the IRGC Ground Force launched it in the Sistan and Baluchestan province on November 1. Seven terrorists have also turned themselves in during the period. “The undeniable fact about terrorists is that they rely on arrogant powers, particularly the intelligence service of the wicked and vicio...
+
+##########################################################################################
+EXAMPLE 5 OF 20
+##########################################################################################
+XRAG ID: 1410
+Language: es
+Task: mono_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 0
+Article order: [0, 6, 7, 2, 4, 5, 1, 3]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Cuáles son algunos de los problemas que se informaron durante las elecciones con respecto a la votación?
+
+GOLD ANSWER:
+Se informaron problemas con los requisitos de identificación de los votantes y errores en la votación por correo.
+
+ENGLISH QUESTION:
+What are some issues that were reported during the election regarding voting?
+
+ENGLISH GOLD ANSWER:
+Issues with voter ID requirements and postal voting errors were reported.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-07-05 04:48:31+01:00
+URL: https://www.dailymail.co.uk/news/article-13602767/Shellshocked-Rishi-Sunak-clings-seat-admits-Keir-Starmer-WON-election-takes-responsibility-night-Tory-bloodbath-saw-DOZEN-ministers-ousted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+Rishi Sunak today conceded he has lost the election and takes 'responsibility' for the huge defeat. A broken PM acknowledged that Keir Starmer had won as he nervously took a victory in his own incredibly safe Richmond & Northallerton seat. 'The British people have delivered a sobering verdict tonight, there is much to learn… and I take responsibility for the loss,' he said. 'To the many good, hard-working Conservative candidates who lost tonight, despite their tireless efforts, their local records and delivery, and their dedication to their communities. I am sorry.' The moment came after Penny Mordaunt and Grant Shapps fell victims to a brutal Tory cull tonight as Keir Starmer' swept towards...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-06-26 20:23:15+00:00
+URL: https://www.mirror.co.uk/news/politics/who-won-bbc-election-debate-33115594
+Preview:
+During the final General Election TV debate on BBC One, a desperate Rishi Sunak repeatedly interrupted Keir Starmer as they clashed on tax, immigration and sleaze Keir Starmer tonight told Rishi Sunak he “might not be quite so out of touch” if he actually listened to voters. The Labour leader delivered the brutal swipe as the PM resorted to shouting over him in the final election TV debate. During the 75-minute showdown on BBC One, a desperate Mr Sunak repeatedly interrupted his rival as they clashed on tax, immigration and sleaze. But Mr Starmer earned a round of applause as he told him: “If you listened to people in the audience across the country more often, you might not be quite so out ...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-11-05 05:05:29
+URL: https://kstp.com/kstp-news/top-news/election-day-unfolds-relatively-smoothly-after-massive-turnout-by-early-voters/
+Preview:
+WASHINGTON (AP) — Election Day unfolded relatively smoothly as voters faced only scattered disruptions and delays after an election season marked by concerns over disinformation, foreign influence and threats to election workers and voting systems. Leading into Tuesday, more than 82 million Americans had already cast their ballots in a largely successful early voting period with high turnout despite some hiccups and frustrations in the presidential battleground of Pennsylvania. And when the final day of voting came, the problems that cropped up were “largely expected routine and planned-for events,” said Cait Conley, senior adviser to the director of the Cybersecurity and Infrastructure Secu...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-11-05 00:00:00
+URL: https://gorgenewscenter.com/2024/11/05/election-day-unfolds-relatively-smoothly-after-massive-turnout-by-early-voters/
+Preview:
+WASHINGTON (AP) — Election Day unfolded relatively smoothly as voters faced only scattered disruptions and delays after an election season marked by concerns over disinformation, foreign influence and threats to election workers and voting systems. Leading into Tuesday, more than 82 million Americans had already cast their ballots in a largely successful early voting period with high turnout despite some hiccups and frustrations in the presidential battleground of Pennsylvania. And when the final day of voting came, the problems that cropped up were “largely expected routine and planned-for events,” said Cait Conley, senior adviser to the director of the Cybersecurity and Infrastructure Secu...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-11-05 05:10:51
+URL: https://www.ajc.com/news/nation-world/voting-period-marked-by-massive-early-turnout-ends-with-few-problems-generally-smooth-election-day/Z6D3TVEIGVBLZAEZXQ4SKWBECY/
+Preview:
+Issues affecting voters on Tuesday included typical election mishaps, from a worker forgetting a key in Arizona's largest county to an election judge failing to show up at the polls in Pennsylvania's Allegheny County. Some precincts around the country faced issues with voter check-in processes and e-pollbooks, causing some delays for voters trying to cast ballots. Some areas had ballot printing mistakes and were printing new ballots and extending voting hours accordingly. Extreme weather across the midsection of the country also caused flooding and some other isolated problems, including knocking out power for at least one Missouri polling place that resorted to a generator to keep voting up...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-11-05 05:10:51
+URL: https://www.ajc.com/news/nation-world/election-day-unfolds-relatively-smoothly-after-massive-turnout-by-early-voters/Z6D3TVEIGVBLZAEZXQ4SKWBECY/
+Preview:
+Issues affecting voters on Tuesday included typical election mishaps, from a worker forgetting a key in Arizona's largest county to an election judge failing to show up at the polls in Pennsylvania's Allegheny County. Some precincts around the country faced issues with voter check-in processes and e-pollbooks, causing some delays for voters trying to cast ballots. Some areas had ballot printing mistakes and were printing new ballots and extending voting hours accordingly. Extreme weather across the midsection of the country also caused flooding and some other isolated problems, including knocking out power for at least one Missouri polling place that resorted to a generator to keep voting up...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-13 00:00:00
+URL: https://www.timesleader.com/news/1672288/election-day-unfolds-relatively-smoothly-after-massive-turnout-by-early-voters
+Preview:
+WASHINGTON — Election Day unfolded relatively smoothly as voters faced only scattered disruptions and delays after an election season marked by concerns over disinformation, foreign influence and threats to election workers and voting systems. Leading into Tuesday, more than 82 million Americans had already cast their ballots in a largely successful early voting period with high turnout despite some hiccups and frustrations in the presidential battleground of Pennsylvania. And when the final day of voting came, the problems that cropped up were “largely expected routine and planned-for events,” said Cait Conley, senior adviser to the director of the Cybersecurity and Infrastructure Security ...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-11-06 00:25:57
+URL: https://www.boston25news.com/news/politics/election-day-unfolds/KVXVS62W7ZECROVPBP4NS23ZSU/
+Preview:
+WASHINGTON — (AP) — Election Day unfolded relatively smoothly as voters faced only scattered disruptions and delays after an election season marked by concerns over disinformation, foreign influence and threats to election workers and voting systems. Leading into Tuesday, more than 82 million Americans had already cast their ballots in a largely successful early voting period with high turnout despite some hiccups and frustrations in the presidential battleground of Pennsylvania. And when the final day of voting came, the problems that cropped up were “largely expected routine and planned-for events,” said Cait Conley, senior adviser to the director of the Cybersecurity and Infrastructure Se...
+
+##########################################################################################
+EXAMPLE 6 OF 20
+##########################################################################################
+XRAG ID: 162
+Language: es
+Task: multi_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 0
+Article order: [3, 4, 0, 1, 6, 2, 5, 7]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Cuántos incidentes aumentaron las tensiones en la península de Corea el 10 de mayo de 2023?
+
+GOLD ANSWER:
+Dos incidentes aumentaron las tensiones en la península de Corea el 10 de mayo de 2023: el lanzamiento de panfletos anti-Corea del Norte por parte de grupos de desertores de Corea del Sur y la represalia de Corea del Norte con globos llenos de basura.
+
+ENGLISH QUESTION:
+How many incidents increased tensions on the Korean Peninsula on May 10, 2023?
+
+ENGLISH GOLD ANSWER:
+Two incidents increased tensions on the Korean Peninsula on May 10, 2023: the launch of anti-North Korea leaflets by defector groups from South Korea and North Korea's retaliation with balloons filled with garbage.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-06-12 00:00:00
+URL: https://www.koreaherald.com/view.php?ud=20240612050760
+Preview:
+On the Korean Peninsula, military tensions have surged to another high. The tensions began to increase on May 10, when North Korean defector groups sent balloons with anti-North Korea leaflets from South Korea to the North. On May 28, the North sent hundreds of balloons filled with garbage, including excrement, and released a statement that mocked the same balloons as freedom of expression from the South and that balloons from the North are in violation of international law. On May 31, South Korea's Ministry of Unification warned in a government statement that it would take unbearable measures unless the North stopped provocations. On June 1, North Korea rereleased its filth balloons. On Jun...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-06-13 12:55:04
+URL: https://eju.tv/2024/06/lo-que-hay-detras-de-la-escalada-de-tensiones-en-corea/
+Preview:
+Las tensiones fronterizas son habituales en la Península Coreana, pero los analistas advierten que el actual aumento de incidentes – disparos en la Zona Desmilitarizada, globos que llevan propaganda tanto al Norte como al Sur y la retórica intensificada de Pyongyang– parece «diferente» y más alarmante de lo habitual. Algunos opinan que el dictador norcoreano Kim Yong-Un ha abandonado toda pretensión de querer cooperar con el Sur. Otros dicen que está tocando los tambores de guerra para distraer a su gente, que padece hambre y está descontenta. Pero hay otra explicación mucho más preocupante. Algunos analistas ven la última escalada como un signo de que Kim se ha asegurado finalmente el apoyo...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-08-22 00:00:00
+URL: https://www.globenewswire.com/news-release/2024/08/22/2934187/0/en/2023-Was-a-Record-Year-for-Violence-Over-Water-Resources-Across-the-Globe.html
+Preview:
+Oakland, California, USA, Aug. 22, 2024 (GLOBE NEWSWIRE) -- Violence over water resources increased dramatically in 2023, continuing a steep growth trend of such incidents over the past decade. These events include attacks on water systems, unrest and disputes over the control of and access to water, and the use of water as a weapon of war. The number of events has risen rapidly in recent years, with 150% as many incidents in 2023 as those recorded in 2022 (347 events versus 231). In the year 2000, there were only 22 such incidents recorded. The Pacific Institute, a global water think tank, is today releasing a major update to its Water Conflict Chronology, the world’s most comprehensive ope...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-10-16 00:00:00
+URL: https://www.koreaherald.com/view.php?ud=20241016050802
+Preview:
+The possibility of a war on the Korean Peninsula is once again in the spotlight. Robert Manning, a distinguished fellow at the Stimson Center, recently argued that the risk of conflict is the highest it has been since the 1950-53 Korean War. While the timeliness of this assessment is understandable, it is necessary to approach such claims with caution. The argument that the risk of war has escalated sharply is accurate in some respects and exaggerated in others. Tensions on the Korean Peninsula have been a constant for decades, and while vigilance is crucial, alarmist conclusions can distort reality. This distortion is not merely theoretical -- it has real-world implications, particularly fo...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-08-22 08:46:36
+URL: https://menafn.com/1108589585/2023-Was-A-Record-Year-For-Violence-Over-Water-Resources-Across-The-Globe
+Preview:
+(MENAFN- GlobeNewsWire - Nasdaq) New study from the Pacific Institute shows rapid growth in water as a trigger, weapon, and casualty of violence, with a dramatic jump in 2023 incidents Oakland, California, USA, Aug. 22, 2024 (GLOBE NEWSWIRE) -- Violence over water resources increased dramatically in 2023, continuing a steep growth trend of such incidents over the past decade. These events include on water systems, unrest and disputes over the control of and access to water, and the use of water as a weapon of war. The number of events has risen rapidly in recent years, with 150% as many incidents in 2023 as those recorded in 2022 (347 events versus 231). In the year 2000, there were only 22 ...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-10-17 11:45:33
+URL: https://www.14ymedio.com/internacional/pyongyang-recrudece-tensiones-peninsula-coreana_1_1107341.html
+Preview:
+Seúl (Corea del Sur)/Varios movimientos de Corea del Norte han contribuido a recrudecer esta semana el ambiente de confrontación en la península coreana y amenazan también con generar una mayor inestabilidad en el frente de Ucrania, al compás de la creciente cooperación militar entre Pyongyang y Moscú. Estos son los últimos pasos dados por el régimen de Kim Jong-un en el ámbito regional y algunas de sus posibles acciones para influir en una guerra que se libra a las puertas de la Unión Europea (UE) y que amenaza con transformarse cada vez más en un conflicto subsidiario que involucra a terceros. A principios de octubre, Corea del Norte celebró una sesión de su Parlamento para, entre otras co...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-10-16 03:03:21
+URL: https://www.elfinanciero.com.mx/mundo/2024/10/15/video-corea-del-norte-destruye-carreteras-que-conectaban-con-corea-del-sur-guerra-de-kim-jong-un/
+Preview:
+Las tensiones entre Corea del Norte y Corea del Sur aumentaron este martes 15 de octubre, luego de que el país gobernado por Kim Jong-un destruyera dos carreteras que conectaban a ambas naciones y que Seúl respondiera con disparos a la frontera. La destrucción de dichas carreteras, llamadas Gyeongui y Donghae, es un acto que se ha interpretado como el incremento de las tensiones entre ambos países, así como el cierre de la posibilidad de un acuerdo pacífico entre las dos Coreas, esto luego de días en los que las amenazas crecen entre Pyongyang y Seúl. Cabe destacar que el pasado domingo 13 de octubre, Kim Jong-un dijo que Corea del Norte estaba listo para atacar a Corea del Sur, esto luego d...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-10-17 08:46:31
+URL: https://www.infobae.com/america/agencias/2024/10/17/pionyang-recrudece-tensiones-en-la-peninsula-coreana-y-empieza-a-influir-en-ucrania/
+Preview:
+Seúl, 17 oct (EFE).- Varios movimientos de Corea del Norte han contribuido a recrudecer esta semana el ambiente de confrontación en la península coreana y amenazan también con generar una mayor inestabilidad en el frente de Ucrania, al compás de la creciente cooperación militar entre Pionyang y Moscú. Estos son los últimos pasos dados por el régimen de Kim Jong-un en el ámbito regional y algunas de sus posibles acciones para influir en una guerra que se libra a las puertas de la Unión Europea (UE) y que amenaza con transformarse cada vez más en un conflicto subsidiario que involucra a terceros. A principios de octubre, Corea del Norte celebró una sesión de su Parlamento para, entre otras cos...
+
+##########################################################################################
+EXAMPLE 7 OF 20
+##########################################################################################
+XRAG ID: 311
+Language: ar
+Task: mono_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 0
+Article order: [0, 7, 3, 6, 5, 2, 1, 4]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+من أظهر دعما أكبر لكامالا هاريس، نشطاء حقوق الإجهاض أم الشخصيات السياسية مثل النائب جيمس كليبورن والسيناتور لافونزا بتلر؟
+
+GOLD ANSWER:
+أظهر نشطاء حقوق الإجهاض دعمًا أكبر لكامالا هاريس مقارنة بشخصيات سياسية مثل النائب جيمس كليبورن والسيناتور لافونزا بتلر.
+
+ENGLISH QUESTION:
+Who has shown more support for Kamala Harris, abortion rights activists or political figures like Rep. James Clyburn and Sen. Laphonza Butler?
+
+ENGLISH GOLD ANSWER:
+Abortion rights activists have shown more support for Kamala Harris than political figures like Rep. James Clyburn and Sen. Laphonza Butler.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-07-08 00:15:54+01:00
+URL: https://www.dailymail.co.uk/news/article-13609835/White-Houses-Kamala-Harris-bungle-Democrats-alternative-Bide.html
+Preview:
+The White House has made a major error with Vice President Kamala Harris as Democrats struggle to find an alternative for President Joe Biden following his abysmal debate performance. Several Democrats - including Rep. James Clyburn, of South Carolina, and Sen. Laphonza Butler, of California - have suggested that the 59-year-old vice president is best suited to take on Trump in the general election if Biden agrees to step down. Tim Ryan, a former congressman from Ohio, has even called on the 81-year-old commander-in-chief to 'rip the Bandaid off' and promote Harris immediately. But in the four years since Biden took office, his administration has done very little to promote Harris and proper...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-07-23 00:53:20+00:00
+URL: https://www.businessinsider.com/gop-lawsuits-kamala-harris-campaign-finance-ballot-election-will-fail-2024-7
+Preview:
+Republicans may sue to stop Kamala Harris from taking Biden's campaign cash and place on the ballot. Such lawsuits are doomed at best — and at worst would be blatantly frivolous, legal experts told BI. They predicted that cases would be rejected immediately or drag out until long after the election. Some in the GOP are signaling there may be legal challenges to Vice President Kamala Harris and her run for the White House now that President Joe Biden has stepped down from the race. Republican legal experts and think tanks such as the Heritage Foundation are questioning Harris's ability to access the Biden-Harris campaign coffers. Others, including Congressman Steve Scalise, say it's wrong for...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-09-11 19:44:17
+URL: https://thegrio.com/2024/09/11/inside-debate-spin-room-trump-talks-to-thegrio-and-is-confronted-by-exonerated-five-member/
+Preview:
+In the spin room following the presidential debate between Kamala Harris and Donald Trump in Philadelphia on Tuesday, theGrio caught up with high-profile Democratic and Republican officials about where they feel the election stands after the prime-time showdown. U.S. Senator Laphonza Butler, D-Calif., a close friend of Harris and campaign surrogate, told theGrio that while it was clear Trump “lost” the debate, she was bothered by the fact that he did not call Harris by her name, instead opting to call her “she and her.” “If he can’t respect the person who is the vice president of the United States, he can’t respect the person who is standing right next to him enough to call her by name … Why...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-09-09 16:30:05
+URL: https://19thnews.org/2024/09/trump-harris-views-policies-abortion-guns-health-care/
+Preview:
+Your trusted source for contextualizing Election 2024 news. Sign up for our daily newsletter. Last month, we asked you, our readers, to tell us the top three issues that are motivating you to vote in November. We received over 150 responses on a broad range of topics. Once we landed on the six that were most mentioned — abortion, gun control, caregiving, climate, Israel and Palestine, and health care — we asked our reporters to write about the policy positions of both presidential candidates on each topic. Here’s a look at the positions of former President Donald Trump and Vice President Kamala Harris. Abortion | Gun control | Caregiving | Climate | Israel and Palestine | Health care Abortio...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-08-22 18:41:13
+URL: https://gaycitynews.com/lgbtq-leaders-blast-trump-vance-campaign-democratic-national-convention/
+Preview:
+Several out Democrats have delivered remarks at the Democratic National Convention and LGBTQ representation has been visible on and off the stage at the United Center in Chicago. Many of the speeches delivered by Democrats — from President Joe Biden to Illinois Gov. JB Pritzker — have also brought attention to the broader fight for LGBTQ rights. The first night of the convention on Aug. 19 featured two out lawmakers from Harris’ home state of California: out lesbian California Senator Laphonza Butler, who pointed to parallels between her career and Harris’ political journey; and Congressmember Robert Garcia, who slammed former President Trump’s handling of the pandemic as he told a personal ...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-08-25 00:00:00
+URL: https://whee.net/bernie-sanders-predicts-rough-campaign-ahead-but-thinks-harris-has-very-good-chance-to-win/
+Preview:
+In a presidential campaign like no other — and just four weeks after President Joe Biden bowed out of the race — Democrats are gathering in Chicago this week to nominate Vice President Kamala Harris as their candidate to take on former President Donald Trump. Here’s how the news is developing: Clyburn calls Project 2025 ‘Jim Crow 2.0’ South Carolina Rep. Jim Clyburn called Project 2025 “Jim Crow 2.0” during his remarks while drawing a comparison between Trump and Harris. “While Trump falsely pleads ignorance of Project 2025, which in my opinion is Jim Crow 2.0, Kamala has been offering the American people enlightened proposals and visionary leadership,” he said. The DNC earlier took aim at t...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-09-13 20:20:00
+URL: https://www.zerohedge.com/political/what-you-dont-know-might-surprise-you
+Preview:
+Authored by James Howard Kunstler's substack, “One debate doesn’t change the issues Americans are facing every day.” - James Rickards By now, you’ve probably heard enough debate about The Debate, so I’ll spotlight only a few points everybody else left out. You might know this, but Hollywood plays a larger role in the Kamala campaign than just stuffing the endorsements of celebs such as George Clooney, Taylor Swift, and John Legend into the corporate media tank. In fact, much bigger playas, Jeffrey Katzenberg and Steven Spielberg, are producing and directing things backstage at Kamala Central, so what gets in the Kamala news plays as a Spielberg movie like The Color Purple. Just so you know. ...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-06-05 18:49:17
+URL: https://abcnews.go.com/Politics/laphonza-butler-appointed-replace-late-sen-feinstein-talks/story?id=110814184
+Preview:
+California Sen. Laphonza Butler sat down with ABC News to discuss her unique status as the only Black woman in the Senate, the current state of democracy and the personal reasons behind her decision not to run in the upcoming election. Butler mentioned that she decided not to run for the upcoming election because of her 9-year-old daughter. She wants to be present in her daughter's life, just like she says her mother was for her. This follows her appointment to the Senate by Gov. Gavin Newsom following Sen. Dianne Feinstein's death. Butler was still a union leader at the time and president of Emily's List, an organization dedicated to electing candidates who support abortion rights. Butler, ...
+
+##########################################################################################
+EXAMPLE 8 OF 20
+##########################################################################################
+XRAG ID: 76
+Language: es
+Task: mono_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 0
+Article order: [6, 3, 1, 5, 2, 7, 4, 0]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué equipo juega contra Croacia el 15 de junio, España o Inglaterra?
+
+GOLD ANSWER:
+España
+
+ENGLISH QUESTION:
+Which team plays against Croatia on June 15, Spain or England?
+
+ENGLISH GOLD ANSWER:
+Spain
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-06-03 22:04:50+01:00
+URL: https://www.dailymail.co.uk/sport/uefa-euro/article-13472613/GROUP-B-GUIDE-Spain-Lamine-Yamal-Nico-Williams-Italy-Croatia.html
+Preview:
+It is likely with a thread of concern that Spain's aficionados watched their nation's piece of paper being withdrawn from December's draw ahead of this summer's European Championships - Group B is no picnic. After a fearsome qualifying campaign, in any other group Luis de la Fuente's side might have been the favourites, but have a path laced with landmines in the form of Italy and Croatia to have a hope of reaching the knockout stages in Germany. The former could represent a particular bogey side for La Roja, who were knocked out by the Azzurri at Wembley in their Euro 2020 semi-final on route to claiming the trophy. Spain are a side with bags of promise, thanks to their emphasis on young ta...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-06-10 10:34:25+01:00
+URL: https://www.dailymail.co.uk/sport/football/article-13375513/England-2024-Euro-path-Final-fixtures.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+England enter Euro 2024 as one of the strong favourites to go all the way and be crowned European champions for the first time in their history. The Three Lions looked invincible during their qualification campaign, managing to be one of the few teams to go unbeaten in the UEFA Euro Qualifiers, although they did have a dip in their performance during their recent friendlies. Gareth Southgate's team, which is armed with both experience and youth, are tipped as one of the favourites to win the tournament, but seven games stand in the way of them and glory, and their potential opponents in the knockout stages are quite daunting no matter what route the end up on. England's path to the final cou...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-07-10 12:10:19
+URL: https://www.football365.com/news/england-zero-chance-spain-netherlands-bottle-mailbox
+Preview:
+England have not got a scooby v Spain if they somehow beat the Netherlands, especially with Lamine Yamal on their team. Send your views to theeditor@football365.com This is how you play football Watching the Spain v France game, and it’s absolutely baffling how anyone can justify the Gareth Southgate approach to football. Teams win big games by being brave. It’ll actually be a disgrace if he engineers another stinker. Greg …Spain have won all 6 of their games. They have beaten Croatia, Italy, Germany and France. England have won 1 game and drawn 4 (in 90 odd mins). They have struggled against Denmark, Slovakia, Slovenia and Switzerland. England are about to play their first Top 15 team. What...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-07-14 13:55:02
+URL: https://www.givemesport.com/euro-2024-nations-ranked-on-performance/
+Preview:
+Highlights England and Spain will meet in the Euro 2024 final on Sunday night. Georgia and Romania have been two of the biggest overachievers this summer. The likes of Germany and France will be incredibly disappointed with their early eliminations. After a month of watching 24 of the best that Europe had to offer go head-to-head, we are 90 minutes away from the conclusion of Euro 2024. England and Spain will meet in Berlin to be crowned Champions, having overcome some incredibly tough battles en route to the final. Regardless of the result, Gareth Southgate and Luis De La Fuente can hold their heads high about how well their nations have done this summer given the strength of opposition the...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-07-14 04:00:00
+URL: https://kstp.com/associated-press/ap-national-sports/ap-sports-summarybrief-at-847-a-m-edt/
+Preview:
+Spain and England to meet in European Championship final in front of Prince William and King Felipe BERLIN (AP) — Spain and England will meet in the European Championship final. Much of the focus is on a teenage wonderkid and whether one of the world’s most underachieving teams can end its decades-long wait for a title. Prince William and Spain’s King Felipe are among the dignitaries expected to attend. Spain is bidding to win the Euros for a record fourth time and for the first time since 2012. The team’s new superstar is 17-year-old winger Lamine Yamal. England lays claim to be the birthplace of soccer and hasn’t won a major title since the 1966 World Cup. This is the team’s second straigh...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-07-12 08:15:18
+URL: https://www.independent.co.uk/sport/football/england-spain-news-live-teams-euro-2024-final-b2578204.html
+Preview:
+The Three Lions will take on Spain in Berlin on Sunday for the chance to become champions of Europe Article bookmarked Find your bookmarks in your Independent Premium section, under my profile Don't show me this message again ✕ England face Spain in the Euro 2024 final on Sunday as the Three Lions try to finally end a wait of more than half a century for a major trophy. Gareth Southgate’s side have endured a rollercoaster ride in Germany this summer, stuttering through the group phase with two underwhelming draws before a dramatic late overhead kick by Jude Bellingham saved them from a dismal exit in the round of 16. But since then, England have clicked into gear with an improved display to ...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-07-13 14:06:22
+URL: https://www.aljazeera.com/sports/2024/7/13/spain-vs-england-uefa-euro-2024-final-preview-team-news-start-time
+Preview:
+Who: Spain vs England What: Euro 2024 semifinals Where: BVB Stadion in Dortmund, Germany When: 9pm (19:00 GMT) kickoff on Saturday, July 14 How to follow: Al Jazeera will bring you live text commentary of the game with build-up starting four hours before kickoff When Spain meet England in the final of Euro 2024, history will beckon for either winner. The Spanish will become the outright record winners of the competition, moving clear of Germany, if they lift the trophy for the fourth time, while the English will be crowned continental champions for the first time if they come out on top. Spain have enjoyed a remarkable run to the final, having already created history with a 100 percent recor...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-07-14 11:55:28
+URL: https://www.foxsports.com/stories/soccer/england-vs-spain-everything-you-need-know-how-watch
+Preview:
+Updated Jul. 14, 2024 12:22 p.m. ET The day has come. England and Spain will face off in the Euro 2024 final on Sunday at the Olympiastadion in Berlin. Here's everything you need to know about the European heavyweight fight: How to watch England vs. Spain The match will air on FOX and the FOX Sports app at 3 p.m. ET. Coverage begins at 1 p.m. ET. ADVERTISEMENT Get to know England Euros appearances: 11 UEFA ranking: 3 FIFA ranking: 4 England's only major tournament title remains the 1966 World Cup. England has now reached the final in two of its four major tournaments under Gareth Southgate, something it had only done so in one of its previous 23 World Cup/Euros appearances (1966 World Cup). ...
+
+##########################################################################################
+EXAMPLE 9 OF 20
+##########################################################################################
+XRAG ID: 181
+Language: ar
+Task: multi_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 0
+Article order: [4, 0, 7, 2, 1, 3, 6, 5]
+Support labels: [0, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+هل فازت الصين أم فرنسا بعدد أكبر من الميداليات في أولمبياد باريس 2024؟
+
+GOLD ANSWER:
+فازت الصين بعدد من الميداليات يفوق ما فازت به فرنسا في أولمبياد باريس 2024.
+
+ENGLISH QUESTION:
+Did China or France win more medals at the Paris 2024 Olympics?
+
+ENGLISH GOLD ANSWER:
+China won more medals than France at the Paris 2024 Olympics.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 0
+Publication date: 2024-07-29 22:00:44
+URL: https://ca.sports.yahoo.com/news/complete-list-paris-olympics-medal-123851115.html
+Preview:
+PARIS (AP) — The 2024 Olympics are underway. The United States led the medal standings after the second day of competition, but more winners will join the list every day from July 27-Aug. 11. See which countries lead the medal count and the highlights in today's schedule. Below is a list of all the medal winners, day by day. Monday, July 29 ARCHERY MEN'S TEAM Gold: South Korea Silver: France Bronze: Turkey ARTISTIC GYMNASTICS MEN’S TEAM Gold: Japan Silver: China Bronze: United States CANOE SLALOM MEN'S CANOE SINGLE Gold: Nicolas Gestin, France Silver: Adam Burgess, Britain Bronze: Matej Benus, Slovakia CYCLING MOUNTAIN BIKE MEN’S CROSS-COUNTRY Gold: Tom Pidcock, Britain Silver: Victor Koretz...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-08-12 13:08:08
+URL: https://newss.dotgulf.com/sport/29748148/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%81%D8%B6%D8%A7%D8%A6%D8%AD-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-2024.html
+Preview:
+أحمد جودة - القاهرة - مع اختتام فعاليات أولمبياد باريس 2024، نطوي صفحة جديدة من تاريخ الرياضة العالمية، حيث شهدت هذه الدورة لحظات لا تُنسى وإنجازات غير مسبوقة على مدى أيام البطولة، اجتمع الرياضيون من جميع أنحاء العالم في العاصمة الفرنسية للتنافس بروح رياضية عالية، وقدموا أداءً استثنائيًا يعكس قوة الإرادة والإصرار. تفوق تاريخي لـ أمريكا في أولمبياد باريس تصدرت الولايات المتحدة الأمريكية جدول الدول الأكثر حصدًا للميداليات في أولمبياد باريس 2024، بعدما حققت 126 ميدالية بواقع 40 ميدالية ذهبية و44 فضية و42 برونزية، وجاء بالمركز الثاني الصين بواقع 91 ميدالية منها 40 ذهبية أيضًا، و27 فضية، و24 برونزية، واحتلت اليابان المركز الثالث برصيد 45 ميدالية منها 20 ذهبية و12 فضية و13 برونزية، وخلفها استراليا...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-07-13 00:00:00
+URL: http://en.people.cn/n3/2024/0713/c90000-20193252.html
+Preview:
+BEIJING, July 13 (Xinhua) -- With less than two weeks until the opening of the 2024 Paris Olympic Games, China announced a 716-member delegation, including 405 athletes, on Saturday, aiming to win more glory at the quadrennial sports extravaganza. China has consistently finished in the top three positions in the Olympic medals table since Sydney 2000, and this trend is expected to continue in Paris. Much of China's Olympic success relied on its squads in diving, shooting, gymnastics, table tennis, badminton and weightlifting - which have contributed a whopping 192 of China's total 263 gold medals at the Olympics since Los Angeles 1984. During the Paris Olympic cycle, the country's "six ace s...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-06-26 09:02:44
+URL: https://www.etfdailynews.com/2024/06/26/beech-hill-advisors-inc-decreases-position-in-general-motors-nysegm/
+Preview:
+Beech Hill Advisors Inc. cut its holdings in General Motors (NYSE:GM – Free Report) (TSE:GMM.U) by 3.8% in the 1st quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 15,000 shares of the auto manufacturer’s stock after selling 600 shares during the period. Beech Hill Advisors Inc.’s holdings in General Motors were worth $680,000 at the end of the most recent reporting period. Several other institutional investors have also added to or reduced their stakes in the business. Norges Bank bought a new stake in General Motors in the fourth quarter valued at $602,280,000. Hotchkis & Wiley Capital Management LLC boosted its stake in shares...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-11-12 00:00:00
+URL: https://www.livemint.com/technology/gadgets/complete-guide-to-geyser-maintenance-tips-for-regular-care-and-lowering-energy-costs-11731409728534.html
+Preview:
+Regular servicing before the season begins ensures that your geyser runs smoothly, extending its lifespan and saving you on repair costs. A well-maintained geyser is also more energy-efficient, which means lower electricity bills. In this guide, we’ll walk you through essential geyser maintenance tips, from pre-season servicing to daily care and ways to cut down on energy usage. Servicing your geyser before the season starts How to prepare your geyser for heavy use in winter? Here are the top crucial steps to follow: Check the heating element Start by checking the heating element that is responsible for warming up the water. If you have access, look for any visible signs of wear or corrosion...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-09-08 08:44:00
+URL: https://menafn.com/arabic/1108648453/%D8%A7%D9%84%D8%A7%D9%94%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B5%D8%AF%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D9%84%D9%82%D8%A7%D9%8A%D9%94%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%B2-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A
+Preview:
+(MENAFN- Kuwait News Agency (KUNA)) باريس - 7 - 9 (كونا) -- واصلت الصين اليوم السبت صدارتها لقائمة ترتيب ميداليات الدول المشاركة في دورة الألعاب البارالمبية المقامة في باريس لتقترب أكثر من الفوز النهائي بهذه الدورة. وبات في رصيد الصين مع نهائية مسابقات اليوم السبت 216 ميدالية من بينها 94 ذهبية و73 فضية و49 برونزية متفوقة بذلك على بريطانيا التي في رصيدها 120 ميدالية هي 47 ذهبية و42 فضية و31 بروزنزية. وفي أحدث الإنجازات العربية أحرز الأردني عبدالكريم خطاب الميدالية الذهبية لرفع الأثقال في منافسات وزن تحت 97 كيلوغراما ليحقق رقما بارالمبيا جديدا بعدما رفع 270 كيلوغراما. وبهذه النتيجة ارتفع رصيد الأردن إلى 3 ميداليات في هذه الدورة. بدورها نجحت المصرية صفاء بإحراز الميدالية البرونزية ...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-06-23 00:00:00
+URL: https://arabic.rt.com/sport/1576658-%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%84%D9%80%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-2024-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%884-%D8%AF%D9%88%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/
+Preview:
+أسدل الستار على دورة "ألعاب بريكس 2024"، التي استضافتها مدينة قازان عاصمة جمهورية تتارستان الروسية، خلال الفترة من 12 وحتى 23 يونيو 2024، بفوز ساحق للمنتخب الروسي. وحصد المنتخب الروسي 507 ميدالية بعد 11 يوم من من منافسات دورة "ألعاب بريكس 2024"، وتربع على عرش صدارة الترتيب برصيد (264 ميدالية ذهبية، و142 فضية، و101 ميدالية برونزية)، مبتعدا بفارق 260 ميدالية عن وصيفه البيلاروسي، الذي حصد 274 ميدالية (55 ذهبية، 85 فضية، 107 برونزية). واحتل منتخب الصين المرتبة الثالثة برصيد 62 ميدالية فقط (20 ذهبية، 24 فضية، 18 برونزية). أما عربيا فقد حصد منتخب مصر 5 ميداليات (فضية واحدة، إضافة إلى 4 ميداليات برونزية)، واحتل المركز الـ21 في الترتيب العام والأول عربيا، متقدما على منتخب الإمارات الذي أحرز 3 ميدالي...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-09-21 19:18:57
+URL: https://www.vetogate.com/5243083
+Preview:
+أولمبياد باريس، طالب الرئيس عبد الفتاح السيسي، في ضوء التقرير المقدم من وزير الشباب والرياضة، بتنفيذ حزمة من الإجراءات الفورية، تتضمن المراجعة القانونية الدقيقة لأوجه صرف المبالغ المالية المخصصة للاتحادات الرياضية التي شاركت في جميع المسابقات بدورة الألعاب الأولمبية أولمبياد باريس 2024. واكتفت بعثة مصر في أولمبياد باريس، بحصد 3 ميداليات خلال مشاركتها في دورة الألعاب الأولمبية باريس 2024، حيث توج أحمد الجندي بذهبية الخماسي الحديث وسارة سمير بفضية رفع الأثقال ومحمد السيد ببرونزية السلاح، في المقابل أنفقت البعثة أكثر من مليار و250 مليون جنيه، لتصبح تكلفة الميدالية الواحدة أكثر من 400 مليون. بعثة مصر تحصد أقل من ثلث توقعات المسئولين ولاقت بعثة مصر انتقادات بسبب تراجع النتائج بشكل كبير مقارنة بوع...
+
+##########################################################################################
+EXAMPLE 10 OF 20
+##########################################################################################
+XRAG ID: 513
+Language: es
+Task: multi_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 2
+Article order: [0, 1, 3, 2, 4, 7, 5, 6]
+Support labels: [1, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué ataque causó más muertes: el ataque con buscapersonas o el ataque con dispositivos explosivos?
+
+GOLD ANSWER:
+El ataque con dispositivos explosivos causó más muertes, 24 personas fallecidas, en comparación con el ataque con buscapersonas, que causó al menos nueve muertes.
+
+ENGLISH QUESTION:
+Which attack resulted in more deaths, the pager attack or the attack involving explosive devices?
+
+ENGLISH GOLD ANSWER:
+The attack involving explosive devices resulted in more deaths, with 24 people killed, compared to the pager attack, which resulted in at least nine deaths.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 1
+Publication date: 2024-09-18 04:15:50
+URL: https://www.whio.com/news/what-know-about/ABINEPZRAZFBJIUPR4QT3LBBXU/
+Preview:
+NEW YORK — (AP) — In what appears to be a sophisticated, remote attack, pagers used by hundreds of members of Hezbollah exploded almost simultaneously in Lebanon and Syria Tuesday, killing at least nine people — including an 8-year-old girl — and wounding thousands more. A U.S. official said Israel briefed the U.S. on the operation — in which small amounts of explosive secreted in the pagers were detonated — on Tuesday after it was concluded. The person spoke on the condition of anonymity because they were not authorized to discuss the information publicly. The Iran-backed militant group blamed Israel for the deadly explosions, which targeted an extraordinary breadth of people and showed sig...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-09-18 21:00:00
+URL: https://www.latercera.com/mundo/noticia/como-se-construyo-la-inedita-explosion-de-localizadores-que-amenaza-con-hacer-escalar-el-conflicto-en-medio-oriente/QRH3VMJS7FCRXNAXPT6AG66P2I/
+Preview:
+Cuando la tensión entre Israel y el Líbano, puntualmente con el grupo militante islamita Hezbolá, parecía no poder escalar más luego de numerosos enfrentamientos grandes y pequeños en las últimas semanas, un evento amenaza con hacer estallar la frágil situación en Medio Oriente: la explosión de cientos de buscapersonas, o beepers, en un sofisticado, letal y preocupante ataque a gran escala. De momento, el movimiento bélico no ha sido reclamado por Israel, pero tanto en la zona como su mayor aliado en Occidente, Estados Unidos, se lo han atribuido. Hezbolá rápidamente se lo atribuyó a Israel, postura que fue confirmada por funcionarios norteamericanos a The New York Times, mientras que CNN as...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-08-09 11:00:00
+URL: https://www.einpresswire.com/article/734268727/zentalis-pharmaceuticals-reports-second-quarter-2024-financial-results-and-operational-progress
+Preview:
+$426.4M cash, cash equivalents and marketable securities as of June 30, 2024; Projected cash runway into mid-2026 SAN DIEGO, Aug. 09, 2024 (GLOBE NEWSWIRE) -- Zentalis® Pharmaceuticals, Inc. (Nasdaq: ZNTL), a clinical-stage biopharmaceutical company discovering and developing clinically differentiated small molecule therapeutics targeting fundamental biological pathways of cancers, today announced financial results for the quarter ended June 30, 2024, and highlighted recent corporate accomplishments. "While we faced challenges this quarter with regards to the ongoing partial clinical hold on azenosertib, we remain steadfast in our confidence in the program’s therapeutic potential and in our ...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-06-28 04:14:42
+URL: https://www.themarketsdaily.com/2024/06/28/ambev-s-a-nyseabev-short-interest-update-3.html
+Preview:
+Ambev S.A. (NYSE:ABEV – Get Free Report) was the recipient of a significant growth in short interest during the month of June. As of June 15th, there was short interest totalling 27,890,000 shares, a growth of 169.2% from the May 31st total of 10,360,000 shares. Based on an average daily trading volume, of 15,920,000 shares, the days-to-cover ratio is currently 1.8 days. Ambev Price Performance Shares of NYSE ABEV traded down $0.02 during mid-day trading on Thursday, hitting $2.09. 21,461,077 shares of the stock were exchanged, compared to its average volume of 14,011,514. Ambev has a twelve month low of $2.05 and a twelve month high of $3.22. The stock’s fifty day simple moving average is $...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-08-01 12:00:00
+URL: https://www.themarysue.com/all-the-dragon-lore-we-picked-up-from-house-of-the-dragon/
+Preview:
+If the name wasn’t a dead giveaway already, House of The Dragon is telling us quite a lot about the dragons that we never really knew in Game of Thrones. No, not just the dragons as in Targayens, but the God-like creatures that inspire awe and fear and make the Targaryens closer to Gods than men. Spoilers ahead for HOTD season 2! Every fantasy has its own dragon lore. In some, like A Song of Ice and Fire, dragons are intelligent beings that can understand commands in High Valyrian, and are revered as Gods, even named after them. And in others, like J.R.R. Tolkien’s Middle-earth, dragons are clever but greedy, guarding treasures, and a menace. The latest season of the HBO series, in particula...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-07-29 14:50:12
+URL: https://www.semana.com/cultura/articulo/esta-es-la-seleccion-oficial-del-11-festival-internacional-de-cine-por-los-derechos-humanos-ficdeh-en-colombia/202412/
+Preview:
+El FICDEH se ratifica una experiencia cinematográfica que integra historias conmovedoras y poderosas de todo el mundo. Su selección está cargada de grandes cortos y largometrajes que aquí revelamos. Redacción Cultura 29 de julio de 2024 Organizado por la Fundación Impulsos, una entidad comprometida con la búsqueda de un país que garantice los derechos de la ciudadanía, el FICDEH (Festival Internacional de Cine por los Derechos Humanos) regresa en 2024 con su edición 11, que desarrollará entre el 22 y el 30 de agosto. Es un evento gratuito y se realiza de manera simultánea en 10 ciudades y 30 municipios del país en diferentes escenarios: salas de cine, centros culturales, universidades y espa...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-06-05 00:00:00
+URL: https://www.iprofesional.com/tecnologia/407377-inteligencia-artificial-intel-amd-y-nvidia-apuestan-por-estos-chips
+Preview:
+No se ha llegado aún a la mitad del 2024 y no hay señales de que los anuncios relacionados con la inteligencia artificial (IA) se desaceleren, especialmente en la feria Computex, la mayor actividad específica sobre computadoras en el mundo. La feria de este año con sede en Taipei, la capital de Taiwán, se desarrolla esta semana con anuncios de las compañías AMD, Intel y Nvidia, entre otras empresas, que detallaron sus próximas estrategias para procesadores que manejan mejor las cargas de trabajo de IA que estamos imponiendo cada vez más a las computadoras. Antes de Computex, se conocieron las nuevas computadoras portátiles Copilot Plus con tecnología de los chips Snapdragon X Elite y Plus de...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-09-28 01:00:00
+URL: https://www.elsoldesanluis.com.mx/analisis/solarium-el-informe-una-fiesta-inolvidable-12626182.html
+Preview:
+En este mes de la Patria, nuestra memoria ha de ser robusta para almacenar todos los recuerdos. Aparte de las fiestas para celebrar la gesta de independencia con ceremonias palaciegas y verbenas populares, se suma la ceremonia del informe de gobierno en sus tres niveles por los que la fiesta sigue. Estoy cierto que el contenido estadístico del tercer informe de gobierno de Ricardo Gallardo Cardona ya es parte de la historia. Su glosa en el Poder Legislativo del Estado es un trámite preaprobado. Pero la fiesta en Matehuala será inolvidable mientras llega la siguiente, cuando otra ciudad del estado sea elegida como escenario por voluntad del mandatario y consentimiento de los diputados locales...
+
+##########################################################################################
+EXAMPLE 11 OF 20
+##########################################################################################
+XRAG ID: 58
+Language: ar
+Task: mono_retrieval
+Question type: set
+Answer type: corrected
+Cross-document type: 0
+Article order: [2, 4, 5, 7, 3, 1, 6, 0]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+من هم الحكام الذين أداروا أبرز المباريات النهائية في البطولات الدولية لكرة القدم؟
+
+GOLD ANSWER:
+أدار البولندي سيمون مارسينياك نهائي كأس العالم 2022، والذي يعد من أبرز المباريات في البطولات الدولية لكرة القدم، كما أدار وكليمنت توربين (فرنسا) نهائي الدوري الأوروبي 2021 ونهائي دوري أبطال أوروبا.
+
+ENGLISH QUESTION:
+which referees have officiated high-profile international football finals?
+
+ENGLISH GOLD ANSWER:
+Szymon Marciniak from Poland has officiated a high-profile international football final, specifically the 2022 World Cup final and Clement Turpin (France), who officiated the 2021 Europa League final and the Champions League final.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-07-10 08:13:00+01:00
+URL: https://www.telegraph.co.uk/football/2024/07/10/euro-2024-referees-officials/
+Preview:
+German referee Felix Zwayer takes charge of England’s Euro 2024 semi-final today Uefa have pulled together an impressive list of experienced referees to take charge of the Euros under its Managing Director of Refereeing Roberto Rosetti. These officials will have been involved in regular training meetings to ensure consistency in delivering decisions. For example, Rosetti has already stated that only the captain of the team will be allowed to speak to the referee. Any other player approaching and surrounding the referee protesting a decision will receive a yellow card. If a goalkeeper is the team captain, then an outfield player will be designated to take on this role. Looking at this group t...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-06-25 21:19:22+00:00
+URL: https://www.independent.co.uk/sport/football/england-slovenia-result-euro-2024-southgate-b2568846.html
+Preview:
+Declan Rice had said before this game that it might only take one match to transform England’s tournament and that might now be true… although not because of anything Gareth Southgate’s side actually did. They again didn’t do much at all. They still somehow find themselves on the more forgiving side of the Euro 2024 draw due to results elsewhere. Southgate won’t have to worry about any of Germany, Spain, Portugal or France until the final… if they make it that far. That is why that run can be a negative, too. Such an opportunity potentially brings more pressure, for a team that barely look like beating anybody right now. They toiled against a defiant and now qualified Slovenia for a 0-0. Tha...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-11-14 19:31:12
+URL: https://www.givemesport.com/worst-referees-football-history-ranked/
+Preview:
+Key Takeaways Referees are under scrutiny as VAR increases their impact on matches globally. Following David Coote's suspension, the worst referees ever have been ranked. Notable referees like Urs Meier and Byron Moreno made the list due to poor performances and controversial decisions. Referees are supposed to be impartial and unbiased. The best players in the world should do the talking by scoring stunning strikes and making wonderful last-ditch tackles, but – sometimes – the people in the middle accidentally get involved in the chaos. Across the world, referees have started to be disliked by fans for their constant impact on the match. This has only increased since Video Assistant Referee...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-09-02 19:56:06
+URL: https://www.givemesport.com/premier-league-referees-greatest-football-history-dean-webb/
+Preview:
+Key Takeaways Premier League referees face constant scrutiny and debates over their decisions, impacting matches and games. Mike Dean and Howard Webb feature are long careers at the top of the game. Mark Clattenburg ranks highly after officiating the Euro 2016 and Champions League finals. Premier League referees are the most vilified individuals in the English game. One dodgy decision often leads to weeks of debates regarding their ability to officiate at the top level. While rewarding, this job has its cons. The role of the referee is to control a match and ensure the game's laws are enforced while the two teams battle. Their decisions, often made in split seconds, can have a massive impact...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-11-15 19:31:13
+URL: https://www.givemesport.com/worst-refereeing-performances-in-football-history/
+Preview:
+Key Takeaways Refereeing errors in high-stake matches like World Cups can alter outcomes. Poor decisions in Premier League games like Tottenham Hotspur vs Liverpool altered the result. Controversy over ghost goals, red cards, and other errors have impacted game results. Refereeing in football has never been as widely debated, with VAR and semi-automated offside technology leading to increased scrutiny of the officials. In the Premier League, there have been some high-profile errors by referees in the top flight in recent years. The most notable example last season was Luis Diaz' ghost goal for Liverpool against Tottenham Hotspur, which features in this list. Other examples of poor refereeing...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-11-22 19:31:12
+URL: https://www.givemesport.com/premier-league-referees-suspended-list/
+Preview:
+Key Takeaways The recent controversy surrounding Premier League official David Coote has brought a spotlight onto the PGMOL. Coote, however, is far from the first referee to have ever been suspended from officiating matches. Mark Clattenburg, perhaps one of the most famous referees in England, was suspended for almost a year. Referees are a big talking point of English football at the time of writing, in no small part due to the recent video of David Coote talking negatively about Liverpool and Jurgen Klopp emerging. Coote has been suspended due to this, with many calling into question the integrity and quality of Premier League referees. It is scarcely a scandal that the PGMOL would have wa...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-08-29 09:54:18
+URL: https://barristermagazine.com/match-official-abuse-the-crack-down/
+Preview:
+By Christina Courquin, Barrister, Mountford Chambers Abuse of Match Officials has been a rising problem for a number of years. Two high-profile rugby officials, Wayne Barnes and Tom Foley, stepped away from the sport following abuse on social media. Mr Barnes announced his retirement following his appearance at the World Cup final last year. He received numerous death threats and warnings, including threats to burn down his house and threats that his wife and children would be killed. Mr Foley announced his retirement one month after Mr Barnes, following what he described to be a ‘torrent of criticism and abuse online’. Football referee Anthony Taylor and his family were subjected to abuse a...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-06-09 20:01:04
+URL: https://www.givemesport.com/best-international-football-managers-ranked/
+Preview:
+Highlights There is no shortage of talented managers working in international football right now, including France's Didier Deschamps and Germany's Julian Nagelsmann. The 15 best managers in international football have been ranked based on the silverware they have won, how their teams are performing right now, and legacy within international football. England manager Gareth Southgate has impressed since his appointment in 2016, but is only the sixth-best manager in international football presently. There's nothing quite like international football. Although the thrills of the club game bring out tribalism among fans, all of whom are eager to see their sides thrive, supporting your nation is ...
+
+##########################################################################################
+EXAMPLE 12 OF 20
+##########################################################################################
+XRAG ID: 1556
+Language: ar
+Task: mono_retrieval
+Question type: set
+Answer type: corrected
+Cross-document type: 0
+Article order: [5, 7, 1, 3, 4, 0, 2, 6]
+Support labels: [0, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+ما الرموز التي تم استبدالها على تمثال الوطن الأم في كييف بأوكرانيا؟
+
+GOLD ANSWER:
+استبدلت أوكرانيا المطرقة والمنجل السوفييتيين على تمثال الوطن الأم في كييف بشعار النبالة الأوكراني ذي الرؤوس الثلاثة
+
+ENGLISH QUESTION:
+what symbols were replaced on kyiv's motherland statue by ukraine?
+
+ENGLISH GOLD ANSWER:
+Ukraine replaced the Soviet hammer and sickle on Kyiv's Motherland statue with Ukraine's trident coat of arms
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 0
+Publication date: 2023-08-11 09:14:42.684000+00:00
+URL: https://www.dw.com/en/russia-ukraine-war-history-school-books/a-66498211?maca=en-rss-en-eu-2092-rdf
+Preview:
+Russia's new school history textbooks aim to present a different perspective on the Ukraine conflict. With a focus on "special military operations," the line between education and propaganda blurs. Russia’s former culture minister co-authored the four new history textbooks, along with Anatoly Torkunov from the Moscow State Institute of International Relations (MGIMO), and Aleksandr Chubaryan, scientific director at the Institute of World History, Russian Academy of Sciences. What is the new history book about? From September 1, updated history books will be used across grades 10 and 11 in all Russian schools. During 2024, new history textbooks for years five through nine will also be written...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2023-08-06 09:25:48.934000+00:00
+URL: https://www.dw.com/en/ukraine-updates-russia-launches-dozens-of-missiles-drones/live-66451431?maca=en-rss-en-all-1573-rdf
+Preview:
+Russia has unleashed a wave of attacks on Ukraine, including hypersonic missiles and Iranian-made drones. DW has more. President Volodymyr Zelenskyy on Sunday celebrated Ukrainian Air Forces Day visiting an airbase at an undisclosed location and praising his troops. There, he signed his name to a French Scalp/EG cruise missile mounted on a fighter jet, adding the words, "Glory to Ukraine!" Zelenskyy said Ukraine's pilots had flown more than 14,000 missions since Russia invaded the country in February 2022. The Ukrainian president also said Ukraine was seeing "significant results" in its defense of Ukrainian airspace due to US Patriot and German IRIS-T air-defense systems. "These are powerful...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-07-24 00:00:00
+URL: https://www.kyivpost.com/post/36316
+Preview:
+We instantly recognize many countries by their flags: the United States’ Stars and Stripes, the UK’s Union Jack, New Zealand’s Southern Cross, Lebanon by the Cedar tree, Israel by David’s Star, and Japan’s red circle on a white background. Ukraine, too, has its recognizable national symbols: the blue-and-yellow flag and the Golden “Tryzub,” or Trident. The colors of the Ukrainian flag – blue and yellow – are conventionally believed to stand for “spacious skies above the fruited plain.” The real meaning is different and far deeper. It goes back to the mid-13th century, when King Danylo of Halych ruled a strong Ukrainian state whose lands spread across the major part of present-day Lviv, Ivano...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-06-28 19:22:00
+URL: https://www.rt.com/russia/600169-kiev-history-two-nations/
+Preview:
+In our time, the relationship between Russia and Ukraine has deteriorated beyond mere hostility into a realm of hellish hatred. Kiev, Ukraine’s capital, stands as the epicenter of a nation at war with Russia; its military targets are bombed, and Russian equipment destroyed in battle is displayed on its streets. For a long period, Kiev was considered more of a Russian city than a Ukrainian one. At least that was the case until June 1934, 90 years ago, when it became the capital of the Ukrainian SSR, replacing Kharkov. What is the story behind this? How did a place known as the “mother of Russian cities” become a contentious symbol for two neighboring peoples? Between Forest and Steppe Humans ...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-06-18 11:24:00
+URL: https://www.spokesman.com/stories/2024/jun/18/as-kyiv-celebrates-first-pride-since-invasion-lgbt/
+Preview:
+KYIV - Pride in Ukraine is no longer just about defending and celebrating the right to love whom you choose. Like everything else here, it’s also about resisting Russia. A Pride march in Kyiv on Sunday - the first since Russia’s 2022 invasion - and a host of other events this month across the country are intended as a message to Russian President Vladimir Putin that Ukrainians want to live in a country with Western freedoms - not Russian-style repressions. The events are also protesting Ukraine’s own policies, which advocates say perpetuate the marginalization of LGBTQ people, including soldiers who risk their lives for Ukraine’s future. Mariia Volia, 31, a radio specialist now serving in th...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-10-23 19:28:29
+URL: https://kyivindependent.com/finishing-off-the-defenseless-how-the-russians-execute-ukrainian-soldiers/
+Preview:
+Warning: This article contains graphic photos and descriptions of graphic scenes. A decomposed human hand with the remains of flesh, bleak and brown save for one splash of color — two thin blue-yellow rubber bracelets. The colors of the Ukrainian national flag. The hand was from a body of the hundreds of victims of Russian troops, soldiers, and civilians, exhumed from a mass burial site near the then-just-liberated Izium, a city in Kharkiv Oblast, in September 2022. Captured by journalists, the photo spread worldwide and became a symbol of Russian violence and Ukrainian resistance. Many assumed that the man, soon identified as a Ukrainian soldier Serhii Sova, was killed in battle. Only one p...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-20 00:00:00
+URL: https://theworld.org/stories/2024/11/04/ukrainians-watch-closely-as-the-us-votes-for-a-new-president
+Preview:
+Kyiv’s central Maidan Square is where the state violently cracked down on protesters during Ukraine’s 2014 revolution. These days, it’s full of faces: pictures of those who’ve died in the war in a sea of fluttering flags. Ukraine’s blue and yellow are most prevalent, but a few stars and stripes can also be seen, representing fallen Americans. A stone’s throw away from the square, journalists recently busied themselves preparing a news radio program. Kyrylo Loukerenko, the executive director of Hromadske Radio, said their listeners are paying close attention to what will unfold in the United States. Americans aren’t the only ones obsessively watching every move that Vice President Kamala Harr...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-08-22 19:07:00
+URL: https://sputnikglobe.com/20240822/western-globalist-vultures-set-to-prey-on-ukraines-orthodox-treasures-1119876329.html
+Preview:
+Western Globalist Vultures Set to Prey On Ukraine's Orthodox Treasures Sputnik International As the Kiev regime has de facto banned the Ukrainian Orthodox Church of the Moscow Patriarchate (UOC-MP), Western globalist elites are seeking to get their hands on Ukraine's cultural treasures. 2024-08-22T19:07+0000 2024-08-22T19:07+0000 2024-08-22T19:21+0000 world george soros kiev ukraine france svr unesco turkiye orthodox church https://cdn1.img.sputnikglobe.com/img/07e7/03/1d/1108934648_0:0:3072:1728_1920x0_80_0_0_e30c3c158cfa4bd52ab9cd083453dd24.jpg Last year, an agreement was reached between the Kiev regime and UNESCO regarding the removal of Christian valuables from the Kiev-Pechersk Lavra, o...
+
+##########################################################################################
+EXAMPLE 13 OF 20
+##########################################################################################
+XRAG ID: 342
+Language: ar
+Task: mono_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 1
+Article order: [5, 4, 1, 2, 0, 6, 7, 3]
+Support labels: [2, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+كم عدد القصص في الموسم الثالث من مسلسل "بريدجيرتون" التي أثارت ردود فعل متباينة بين المعجبين؟
+
+GOLD ANSWER:
+أثارت قصتان في الموسم الثالث من مسلسل "بريدجيرتون" ردود فعل متباينة بين المعجبين.
+
+ENGLISH QUESTION:
+How many storylines in "Bridgerton" season 3 sparked mixed reactions among fans?
+
+ENGLISH GOLD ANSWER:
+Two storylines in "Bridgerton" season 3 sparked mixed reactions among fans.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-06-27 21:06:07+00:00
+URL: https://www.businessinsider.com/bridgerton-showrunner-backlash-fans-season-3-polin-franchael-michaela-stirling-2024-6
+Preview:
+"Bridgerton" season 3 received mixed reviews from fans. Some had issues with Penelope and Colin's love story and a character being gender-swapped. The backlash prompted author Julia Quinn to defend showrunner Jess Brownell's creative choices. On paper, "Bridgerton" season three was a roaring success for Netflix, breaking viewership records, driving the social-media conversation, and cementing the romantic drama's status as one of the streamer's most popular series ever. But on the internet, the reception hasn't been entirely positive. While many were pleased with the conclusion to the long-simmering friends-to-lovers romance between Colin Bridgerton (Luke Newton) and Penelope Featherington (...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-06-23 12:17:06+00:00
+URL: https://www.businessinsider.com/bridgerton-season-3-finale-unanswered-questions-cliffhangers-2024-6
+Preview:
+Season three of "Bridgerton" wrapped up Colin and Penelope's story, but left fans with even more questions. Despite resolving major conflicts, several loose threads remain left to be addressed on season four. Business Insider rounded up the biggest burning questions we had after watching the season three finale. Warning: There are major spoilers ahead for season three of "Bridgerton." Season three of "Bridgerton" is over, but there's plenty of fresh gossip and drama to come when the show returns for season four. The latest season of Netflix's hit drama series concluded on June 13, wrapping up Colin Bridgerton (Luke Newton) and Penelope Featherington's (Nicola Coughlan) friends-to-lovers roma...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-06-03 15:10:11
+URL: https://www.businessinsider.com/bridgerton-season-3-easter-eggs-references-details-missed-2024-5
+Preview:
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? . "Bridgerton" is often filled with subtle references, Easter eggs, and other details. The third season, which premiered its first half in May, is no different. Here are the best details you might have missed (so far). Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered daily. Read preview Thanks for signing up! Access your favorite topics in a personalized feed while you're on the go. Email address By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy. You can opt-out at any time by visiting our P...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-07-20 09:57:02
+URL: https://www.businessinsider.com/best-netflix-original-series-shows-2024-7
+Preview:
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account? . Advertisement "Bridgerton" season 3 Rotten Tomatoes score: 87% Though there are plenty of complaints about this season of "Bridgerton," the show's writers still managed to hook audiences in for another eight episodes of romantic chaos. The series sees lead couple Penelope Featherington (Nicola Coughlan) and Colin Bridgerton (Luke Newton) figure out whether they can be more than friends. Fans and critics praised Coughlan and Newton's cozy chemistry, while supporting characters like Francesca Bridgerton (Hannah Dodd) and Cressida Cowper (Jessica Madsen) stole the sho...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-06-04 00:50:00
+URL: https://feminisminindia.com/2024/06/04/bridgerton-season-3-is-fun-raunchy-and-a-treat-to-watch/
+Preview:
+Netflix’s Bridgerton, the raunchy Regency drama, dropped the first half of its third season on Netflix in mid-May, for the first time in over two years. It is finally the Season in London’s Mayfair again, with starry-eyed debutantes hoping to come into the good graces of Queen Charlotte (Golda Roshuvel) all the while navigating a society that pits them against one another. Bridgerton is fun, sexy, and enchanting, a package that makes for easy viewing, and this season, it has somehow managed to take it a step further, making it quite possibly its best season yet. Bridgerton season 3: what to look forward to Season three of Netflix’s hit show focuses on the romance between Penelope Featheringt...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-06-04 10:27:05
+URL: https://www.pinkvilla.com/entertainment/hollywood/6-key-moments-from-bridgerton-season-3-that-are-similar-to-the-novel-1312283
+Preview:
+Netflix's Bridgerton takes certain liberties while adapting the book storylines in seasons 1 and 2. The same is true for season 3. However, several scenes in Bridgerton season 3 remain identical, whether in execution, intention, or both. Bridgerton season 3 replicates the story of Romancing Mr. Bridgerton. This is the fourth Julia Quinn Bridgerton book and the one that officially identifies Penelope as Lady Whistledown after the anonymous writer had reported on the events for nearly a decade. Bridgerton Season 3, Part 1, may not have addressed this story, but it did bring other crucial book events to the screen. A major distinction between the Bridgerton books and the TV program is the empha...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-07-24 07:02:35
+URL: https://www.mirror.co.uk/tv/bridgerton-fans-cant-contain-excitement-33311595
+Preview:
+Bridgerton Season 3 has been a massive hit, clocking up over 45 million views since it dropped. With the most devoted fans having already devoured the friends-to-lovers tale of Colin Bridgerton (Luke Newton) and Penelope Featherington (Nicola Coughlan), there's only one question on everyone's minds... Who's next? It has now been confirmed that Luke Thompson will take the lead in Season 4 with his character, Benedict Bridgerton - and fans are itching to see how this story unfolds. The series, based on Julia Quinn's period romance novels, has already brought to life The Duke and I (Book 1: Daphne and Simon), The Viscount Who Loved Me (Book 2: Kate and Anthony) and most recently Romancing Mr Br...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-06-06 20:23:11
+URL: https://www.themarysue.com/all-bridgerton-season-3-part-2-spoilers-and-speculation/
+Preview:
+Netflix left viewers with a tantalizing cliffhanger halfway through the third season of Bridgerton. With the season poised to continue on June 13, 2024, we’re tipping our China cups ever-so-slightly to spill some tea about what might happen next! The beauty of a television series that’s based on a series of novels is that we know a few things about the characters and plot going in. Season 3 is based on Penelope and Colin’s story from the book Romancing Mr. Bridgerton, making it easy to speculate on where the TV show will go. So speculate we shall! As Lady Danbury (Adjoa Andoh) says in the newly-released trailer for part 2, “Who needs fresh air when you have fresh gossip?” How did part 1 of s...
+
+##########################################################################################
+EXAMPLE 14 OF 20
+##########################################################################################
+XRAG ID: 52
+Language: ar
+Task: multi_retrieval
+Question type: comparison
+Answer type: corrected
+Cross-document type: 2
+Article order: [1, 0, 3, 5, 7, 2, 6, 4]
+Support labels: [1, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+أي الحدثين وقع أولاً، اغتيال زعيم حماس إسماعيل هنية أم توقيع إعلان بكين؟
+
+GOLD ANSWER:
+وُقع على إعلان بكين (23 يوليو) أولاً.
+
+ENGLISH QUESTION:
+Which event occurred first, the assassination of Hamas leader Ismail Haniyeh or the signing of the Beijing Declaration?
+
+ENGLISH GOLD ANSWER:
+The signing of Beijing Declaration (July 23) occurred first.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 1
+Publication date: 2024-08-14 15:24:48
+URL: https://www.hurriyetdailynews.com/israel-pounds-gaza-ahead-of-ceasefire-talks-199507
+Preview:
+GAZA STRIP Palestinian children sit on a whindow sill at the Asdaa central prison facility which has become a shelter for displaced people in Khan Yunis in the southern Gaza Strip on August 14, 2024, amid the ongoing conflict between Israel and the Hamas. Efforts to end the war in Gaza have hit a roadblock as Hamas announced it will not participate in ceasefire talks scheduled for Aug. 15, while Israel continues its deadly operations. The Palestinian militant group said it would not send negotiators to the upcoming truce talks. Instead, it called on mediators to present a plan based on previous negotiations. “The movement calls on the mediators to present a plan to implement what was agreed ...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-07-24 14:47:00
+URL: https://sarabic.ae/20240724/%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D8%BA%D8%B2%D8%A9-%D9%85%D8%A7-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D9%86%D8%AC%D8%A7%D8%AD-%D8%AD%D8%B1%D8%A7%D9%83-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%81%D9%8A-%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%D8%9F-1091095829.html
+Preview:
+مصالحة داخلية ومبادرة لغزة.. ما إمكانية نجاح حراك الصين في حل الأزمات الفلسطينية؟ سبوتنيك عربي أطلقت الصين حراكًا دبلوماسيًا وسياسيًا لحل القضية الفلسطينية، سواء على المستوى الداخلي أو فيما يتعلق بالحرب القائمة على قطاع غزة. 24.07.2024, سبوتنيك عربي 2024-07-24T14:47+0000 2024-07-24T14:47+0000 2024-07-24T14:47+0000 حصري تقارير سبوتنيك غزة أخبار الشرق الأوسط https://cdn.img.sarabic.ae/img/07e8/07/16/1091018516_0:0:3520:1980_1920x0_80_0_0_298e192c13626e2a269fc72a81a018dc.jpg بكين التي استضافت اجتماعا للفصائل الفلسطينية ودفعتها للتوقيع على اتفاق مصالحة ينهي الانقسام، طرحت كذلك مبادرة من 3 مراحل لإنهاء الحرب الإسرائيلية على غزة، وإبرام صفقة تبادل للأسرى.المبادرات الصينية التي لم تلق ترحيبًا إسرائ...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-11-14 03:54:48
+URL: https://www.com-unik.info/2024/11/14/sun-communities-sui-investment-analysts-weekly-ratings-updates.html
+Preview:
+Sun Communities (NYSE: SUI) recently received a number of ratings updates from brokerages and research firms: 11/12/2024 – Sun Communities was downgraded by analysts at Bank of America Co. from a “neutral” rating to an “underperform” rating. They now have a $114.00 price target on the stock, down previously from $147.00. 11/12/2024 – Sun Communities was upgraded by analysts at StockNews.com from a “sell” rating to a “hold” rating. 11/7/2024 – Sun Communities had its price target lowered by analysts at Royal Bank of Canada from $147.00 to $135.00. They now have an “outperform” rating on the stock. 11/7/2024 – Sun Communities had its price target lowered by analysts at BMO Capital Markets from...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-07-03 12:04:44
+URL: https://theenterpriseleader.com/2024/07/03/handelsinvest-investeringsforvaltning-purchases-204-shares-of-adobe-inc-nasdaqadbe.html
+Preview:
+Handelsinvest Investeringsforvaltning lifted its position in Adobe Inc. (NASDAQ:ADBE – Free Report) by 6.2% during the 1st quarter, according to the company in its most recent filing with the SEC. The fund owned 3,494 shares of the software company’s stock after purchasing an additional 204 shares during the quarter. Adobe accounts for approximately 0.8% of Handelsinvest Investeringsforvaltning’s holdings, making the stock its 23rd biggest holding. Handelsinvest Investeringsforvaltning’s holdings in Adobe were worth $1,763,000 at the end of the most recent reporting period. Other large investors have also made changes to their positions in the company. Alkeon Capital Management LLC acquired ...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-06-17 00:20:00
+URL: https://tribune.net.ph/2024/06/16/innovator-aids-sari-sari-stores
+Preview:
+Sari-sari stores or small community retailers often face the problems that big businesses encounter, such as high inventory and lower-than-expected revenues. The difference is that sari-sari stores usually do not have immediate access to the latest technologies that can help them improve their business operations. Assembling a group of fellow motorcycle riders, Bing Tan created the startup Packworks, a provider of the Sari.PH Pro app. The app is a business-to-business data tool that tracks the inventory, prices of goods, cash flow of sari-sari store owners, and consumer trends so they can increase their sales. It also links the sari-sari store operators to lenders so they can diversify their...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-10-29 00:00:00
+URL: https://menafn.com/arabic/1108831790/%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%94%D8%B3%D9%88%D8%A7%D9%94-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%82%D8%A7%D8%A1-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88
+Preview:
+(MENAFN- Alghad Newspaper) سيعتقد البعض أن هذه التصريحات عادية إلا انها خطوة غير مسبوقة، حين أقر رئيس وزراء الكيان الصهيوني بنيامين باغتيال رئيس حركة المقاومة الإسلامية حماس إسماعيل هنية في طهران، وهو ما يطرح تساؤلات عديدة حول الأبعاد السياسية والإستراتيجية لهذه التصريحات، والتي تعتبر هذه الاعترافات مؤشرا على تغير في السياسة الصهيونية تجاه حماس والمقاومة الفلسطينية، والتي قد تحمل تداعيات كبيرة في طياتها. بلا شك اعترافات نتنياهو تلك تعتبر أداة سياسية في سياق محاولاته لتأكيد قوة الكيان العسكرية، في ظل تصاعد التوترات في المنطقة وخطر تهديد وجودها التي بدأت تشهر به بالفعل، وذلك من خلال هذا الإعلان الذي يسعى نتنياهو إلى تعزيز موقفه داخليا، خاصة مع اقتراب الانتخابات، حيث قد يشعر أن...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-10-30 06:46:27
+URL: https://watananews.com/414673/
+Preview:
+زيدون الحديد سيعتقد البعض أن هذه التصريحات عادية إلا انها خطوة غير مسبوقة، حين أقر رئيس وزراء الكيان الصهيوني بنيامين نتنياهو باغتيال رئيس حركة المقاومة الإسلامية حماس إسماعيل هنية في طهران، وهو ما يطرح تساؤلات عديدة حول الأبعاد السياسية والإستراتيجية لهذه التصريحات، والتي تعتبر هذه الاعترافات مؤشرا على تغير في السياسة الصهيونية تجاه حماس والمقاومة الفلسطينية، والتي قد تحمل تداعيات كبيرة في طياتها. بلا شك اعترافات نتنياهو تلك تعتبر أداة سياسية في سياق محاولاته لتأكيد قوة الكيان العسكرية، في ظل تصاعد التوترات في المنطقة وخطر تهديد وجودها التي بدأت تشهر به بالفعل، وذلك من خلال هذا الإعلان الذي يسعى نتنياهو إلى تعزيز موقفه داخليا، خاصة مع اقتراب الانتخابات، حيث قد يشعر أنه بحاجة إلى تقديم إنجاز...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-06-01 07:58:25
+URL: https://www.alsumaria.tv/Entertainment-News/490044/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%88%D9%8A%D9%85%D8%A8%D9%84%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%B9-%D9%82%D9%85%D8%A9-%D9%83%D8%B1%D9%88%D9%8A%D8%A9-%D9%85%D8%B4%D8%AA%D8%B9%D9%84%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D9%84-%D9%88%D8%AF%D9%88%D8%B1
+Preview:
+404 مشاهدة السومرية نيوز – رياضة يخطف نهائي أبطال أوروبا 2024 الأضواء، حيث يلتقي فريقا ريال مدريد الإسباني وبوروسيا دورتموند الألماني في مواجهة مرتقبة على استاد ويمبلي الشهير في لندن، اليوم السبت الموافق للفاتح من يونيو/ حزيران. وتحمل هذه المباراة في طياتها الكثير من الإثارة والتحدي، حيث يسعى كل فريق لكتابة فصل جديد في تاريخه الكروي. ويبحث ريال مدريد، بقيادة المدرب المخضرم كارلو أنشيلوتي، في هذا النهائي عن تعزيز رقمه القياسي وتحقيق اللقب الخامس عشر في تاريخه. الفريق الملكي يمتلك خبرة واسعة في هذه البطولة، ويعرف جيدًا كيفية التعامل مع ضغط المباريات الكبيرة. في الجهة المقابلة، يسعى بوروسيا دورتموند بقيادة مدربه إدين ترزيتش لتحقيق المفاجأة في نهائي أبطال أوروبا 2024، والفوز باللقب للمرة الثانية...
+
+##########################################################################################
+EXAMPLE 15 OF 20
+##########################################################################################
+XRAG ID: 160
+Language: es
+Task: multi_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 0
+Article order: [0, 5, 6, 2, 1, 7, 3, 4]
+Support labels: [2, 0, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué acuerdo entre Rusia y Corea del Norte incluye más áreas, la asociación integral o el pacto de asistencia mutua en caso de agresión?
+
+GOLD ANSWER:
+El acuerdo de asociación integral entre Rusia y Corea del Norte incluye más áreas que el pacto de asistencia mutua en caso de agresión. La asociación integral abarca la seguridad, el comercio, la inversión, la cooperación cultural, la atención médica, la ciencia y los proyectos de infraestructura como un puente vial. En cambio, el pacto de asistencia mutua en caso de agresión se centra principalmente en la ayuda mutua en caso de ataque.
+
+ENGLISH QUESTION:
+Which agreement between Russia and North Korea includes more areas, the comprehensive partnership or the pact of assistance mutual in case of aggression?
+
+ENGLISH GOLD ANSWER:
+The comprehensive partnership agreement between Russia and North Korea includes more areas than the pact of assistance mutual in case of aggression. The comprehensive partnership covers security, trade, investment, cultural cooperation, healthcare, science, and infrastructure projects like a road bridge. In contrast, the pact of assistance mutual in case of aggression primarily focuses on mutual aid in case of an attack.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-06-19 09:54:16
+URL: https://www.necn.com/news/national-international/putin-says-russia-and-north-korea-have-vowed-to-aid-each-other-if-attacked/3262886/
+Preview:
+Russian President Vladimir Putin and North Korean leader Kim Jong Un signed a new partnership deal that includes a vow of mutual aid if either country is attacked, as both face escalating standoffs with the west. The deal, which the leaders said covered areas including security, trade, investment, and cultural and humanitarian ties, could mark the strongest connection between Moscow and Pyongyang since the Soviet Union collapsed in 1991. Both leaders described it as a major upgrade of their ties. The two met as Putin visited North Korea for the first time in 24 years. The summit came as the U.S. and its allies express growing concerns over an arms arrangement in which the country provides Mo...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 0
+Publication date: 2024-06-19 12:04:03
+URL: https://acento.com.do/bbc-news-mundo/el-pacto-firmado-entre-rusia-y-corea-del-norte-por-el-que-se-comprometen-a-protegerse-mutuamente-en-caso-de-agresion-9355415.html
+Preview:
+La visita del presidente de Rusia, Vladimir Putin, a Corea del Norte ha sido seguida con atención por el mundo. Y es que la cercanía cada vez más evidente entre el líder norcoreano Kim Jong-un y su homólogo ruso ha puesto en alerta a Occidente. Ahora, la alianza entre ambos países dio un paso más allá tras la firma de un pacto entre Kim y Putin que contempla una "asistencia mutua en caso de agresión contra una de las partes", según explicó el mandatario ruso, quien fue citado por los medios estatales de ese país. Ambos líderes estuvieron reunidos por dos horas durante este miércoles en Pyongyang. Kim Jong-un calificó a Rusia como el "amigo y aliado más honesto", y se refirió a Putin como el ...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-10-15 18:14:00
+URL: https://sputnikglobe.com/20241015/unique-russia-north-korea-pact-can-cool-pentagon-hotheads-stabilize-east-asia-heres-how-1120562604.html
+Preview:
+‘Unique’ Russia-North Korea Pact Can Cool Pentagon Hotheads, Stabilize East Asia: Here's How Sputnik International President Putin has instructed Russia's parliament to formally assess and ratify a Comprehensive Strategic Partnership Treaty with North Korea, which he signed together with Kim Jong Un in Pyongyang in June. Sputnik asked a leading Russian Korea expert about the treaty's implications for security in Northeast Asia. 2024-10-15T18:14+0000 2024-10-15T18:14+0000 2024-10-15T18:14+0000 analysis artyom lukin vladimir putin kim jong un russia korean peninsula collective security treaty organization (csto) https://cdn1.img.sputnikglobe.com/img/07e8/06/17/1119079264_0:0:3022:1700_1920x0_8...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-11-19 01:18:03
+URL: https://www.eurasiareview.com/19112024-challenge-before-trump-as-russia-china-north-korea-axis-takes-shape-analysis/
+Preview:
+The “comprehensive strategic partnership” treaty, or the mutual defence treaty signed between Russia and North Korea in June 2024 in Pyongyang during Russian President Vladimir Putin’s visit includes a clause committing the two states to providing military support “without delay” if either is attacked. This Russia-North Korea bonhomie has drawn Ukraine as a proxy battlefield for Korean Peninsula tensions. The ratification of the security treaty by the Russian Parliament has led the Ukraine crisis into a hazardous new phase. Recent intelligence reports from the US revealed that North Korea has sent thousands of troops to Russia to aid fight against Ukraine on Russia’s behalf. The larger impli...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-11-15 05:37:56
+URL: https://www.wvtf.org/2024-11-15/the-treaty-between-russia-and-north-korea-signals-a-new-era-on-2-continents
+Preview:
+SEOUL, South Korea — This week saw North Korea and Russia sign a major treaty, as their forces joined in battle against Ukrainian troops. The developments are seen by analysts and government officials as widening Russia's war with Ukraine, strengthening the link between conflicts on two continents, and setting a possible precedent for deeper North Korean involvement in this and other conflicts. Russian President Vladimir Putin and North Korean leader Kim Jong Un signed the treaty in June in Pyongyang, and they each signed it into law in recent days. The Treaty on Comprehensive Strategic Partnership says that if either country is invaded, the other one must provide military and other assistan...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-10-16 16:59:42
+URL: https://www.lanacion.com.ar/espectaculos/musica/axel-krygier-el-melodista-que-transformo-la-historia-de-su-familia-en-un-happening-delirante-y-lo-nid17102024/
+Preview:
+“¡Estaban tomados por el demonio del arte!”, dice Frédéric Ditis, en un pasaje del relato que le encomendó su hermano Louis para legar la historia de la familia a las generaciones venideras. “Un demonio porque esa obsesión por la perfección y la belleza fue la ruina de todos.” Así lo cuenta el músico y compositor Axel Krygier, nieto de ese hermano de Ditis que tuvo la idea de compendiar en una grabación el periplo de la familia de relojeros judíos —los Ditisheim— que en la guerra franco-prusiana huyeron de Alsacia a Suiza. La colección de las cuatro cintas grabadas en cassettes en el año 1980 dio origen a La Pendule (nombre en francés para los relojes de péndulo, especialidad de Ditisheim), ...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-07-04 10:00:00
+URL: https://www.diariosigloxxi.com/texto-diario/mostrar/4902561/generacionleads-agencia-leads-ayudado-miles-empresas-generar-ingresos-captacion-leads
+Preview:
+Generacionleads se ha consolidado como la agencia líder en la captación de leads de calidad, ayudando a miles de empresas y autónomos a incrementar sus ingresos mediante estrategias publicitarias efectivas. A través de su enfoque especializado, Generacionleads ha impactado positivamente en una amplia variedad de sectores, demostrando su capacidad para adaptarse a las necesidades específicas de cada industria. Como no se puede hablar de todos los sectores, se mencionan a continuación algunos de ellos. Sector Hipotecario, Préstamos y Créditos En el competitivo mercado de las hipotecas, Generacionleads ha proporcionado a bancos, autónomos y asesorías hipotecarias leads altamente cualificados, l...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-11-01 19:32:12
+URL: https://www.lasexta.com/loteria/comprobar-sorteos-loteria-bonoloto-euromillones-cuponazo-once-triplex-super-once-eurojackpot-hoy-viernes-1-noviembre-2024_2024110167251a5cd8f8950001d778e6.html
+Preview:
+Los sorteos de ONCE y Loterías y Apuestas del Estado del viernes 1 de noviembre de 2024 traen premios millonarios. El Euromillones de las 21:00h acumula hoy un bote de 98 millones de euros y el Eurojackpot, que desvela en España a la misma hora sus números premiados, tiene otro de 69 millones de euros. El Cuponazo de la ONCE, que sortea un premio de 6 millones de euros, se juega a las 21:25h, y la Bonoloto a las 21:30h. Los resultados de Triplex y Super Once se publican diariamente a las 10:00h, a las 12:00h, a las 14:00h, a las 17:00h y a las 21:15h. Resultado de la Bonoloto La combinación ganadora de la Bonoloto de Loterías y Apuestas del Estado de este viernes, 1 de noviembre de 2024, la ...
+
+##########################################################################################
+EXAMPLE 16 OF 20
+##########################################################################################
+XRAG ID: 118
+Language: ar
+Task: multi_retrieval
+Question type: set
+Answer type: original
+Cross-document type: 1
+Article order: [0, 4, 1, 7, 6, 3, 2, 5]
+Support labels: [2, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+من القادة المشاركون في محادثات وقف إطلاق النار مع إسرائيل في النزاعات الأخيرة؟
+
+GOLD ANSWER:
+يشارك رئيس الوزراء الإسرائيلي بنيامين نتنياهو والرئيس الأمريكي جو بايدن في مناقشات وقف إطلاق النار مع إسرائيل في النزاعات الأخيرة ويناقش نتنياهو مقترحات وقف إطلاق النار مع مجلس الوزراء الأمني الإسرائيلي، ويدعم بايدن اتفاق وقف إطلاق النار بين إسرائيل وحزب الله.
+
+ENGLISH QUESTION:
+Who are the leaders involved in ceasefire discussions with Israel in recent conflicts?
+
+ENGLISH GOLD ANSWER:
+Israeli Prime Minister Benjamin Netanyahu and U.S. President Joe Biden are involved in ceasefire discussions with Israel in recent conflicts. Netanyahu is discussing ceasefire proposals with the Israeli security cabinet, and Biden supports the ceasefire agreement between Israel and Hezbollah.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-11-26 22:29:54
+URL: https://www.defensenews.com/global/mideast-africa/2024/11/26/israel-and-lebanons-hezbollah-agree-to-a-ceasefire/
+Preview:
+JERUSALEM — Israel approved a United States-brokered ceasefire agreement with Lebanon’s Hezbollah on Tuesday, setting the stage for an end to nearly 14 months of fighting linked to the ongoing war in the Gaza Strip. Israeli warplanes meanwhile carried out the most intense wave of strikes in Beirut and its southern suburbs since the start of the conflict and issued a record number of evacuation warnings. At least 24 people were killed in strikes across the country, according to local authorities, as Israel signaled it aims to keep pummeling Hezbollah before the ceasefire is set to take hold at 4 a.m. local time on Wednesday. Another huge airstrike shook Beirut shortly after the ceasefire was ...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-07-05 00:00:00
+URL: https://www.alanba.com.kw/BBCNews/15963
+Preview:
+هناك تحركات من أجل الاتفاق على وقف لإطلاق النار في قطاع غزة من قبل كل من إسرائيل وحركة حماس. ويسود الاعتقاد بأن رئيس الوزراء الإسرائيلي بنيامين نتنياهو يبحث الاقتراحات الأخيرة للتوصل إلى هدنة مع حماس مع المجلس الوزاري للشؤون الأمنية. لكن هل سيؤدي وقف إطلاق النار إلى إنهاء الصراع في غزة بشكل دائم أم لفترة من الزمن فقط؟ ما الذي يعنيه وقف إطلاق النار؟ وفقاً للأمم المتحدة، لا يوجد تعريف واحد مقبول عالمياً لمصطلح "وقف إطلاق النار"، على الرغم من أن المصطلح يأتي من الأمر العسكري بـ "وقف النار" وهو المعاكس للأمر بـ "فتح النار". ويمكنه أن يحمل المعنى الذي تريده الأطراف المتحاربة في مفاوضاتها وهو يستخدم أيضاً بالتبادل مع كلمة "هدنة". لكن الأمم المتحدة تقول إن هناك فرقاً في الغالب بين مصطلحي "وقف إطلاق...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-08-05 14:30:22
+URL: https://homenewspa.com/2024/08/05/northampton-county-upcoming-roadwork-83/
+Preview:
+Municipality: – Road name: Interstate 78 Between: Exit 67 (PA 412) and Exit 71 (PA 33) Type of work: Road Sign Work Work being done by: PennDOT Contractor Type of restriction: Daytime Restriction: Shoulder restriction for road sign work. Start date: August 5 Est completion date: August 9 Restrictions in effect (time of day): 9 a.m. to 3 p.m. Will rain cause delays? No Municipality: Bethlehem Township Road name: US 22 East Between: PA 191 and PA 33 Type of work: Road Sign Work Work being done by: PennDOT Contractor Type of restriction: Daytime Restriction: Shoulder restriction for road sign work. Start date: August 5 Est completion date: August 9 Restrictions in effect (time of day): 9 a.m. t...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-10-05 17:48:03
+URL: https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-tonight-movie-what-time-b2624365.html
+Preview:
+All the updates from week three of the BBC dancing competition including the all-important voting rules Article bookmarked Find your bookmarks in your Independent Premium section, under my profile Don't show me this message again ✕ Your support helps us to tell the story My recent work focusing on Latino voters in Arizona has shown me how crucial independent journalism is in giving voice to underrepresented communities. Your support is what allows us to tell these stories, bringing attention to the issues that are often overlooked. Without your contributions, these voices might not be heard. Every dollar you give helps us continue to shine a light on these critical issues in the run up to th...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-06-29 11:54:43
+URL: https://www.com-unik.info/2024/06/29/kenvue-inc-nysekvue-shares-bought-by-independence-bank-of-kentucky.html
+Preview:
+Independence Bank of Kentucky boosted its position in shares of Kenvue Inc. (NYSE:KVUE – Free Report) by 145.3% in the 1st quarter, according to its most recent filing with the Securities & Exchange Commission. The institutional investor owned 4,381 shares of the company’s stock after acquiring an additional 2,595 shares during the period. Independence Bank of Kentucky’s holdings in Kenvue were worth $94,000 as of its most recent SEC filing. Other institutional investors and hedge funds also recently added to or reduced their stakes in the company. Planned Solutions Inc. acquired a new position in shares of Kenvue in the 4th quarter valued at $27,000. Pacific Capital Wealth Advisors Inc. acq...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-06-15 18:39:48
+URL: https://www.dostor.org/4736515
+Preview:
+تستمر جهود الوساطة التى تقودها مصر وقطر والولايات المتحدة، من أجل التوصل إلى صيغة نهائية لاتفاق وقف إطلاق النار بين «حماس» وإسرائيل فى قطاع غزة. وتدور المفاوضات فى الوقت الحالى حول المقترح الذى طرحه الرئيس الأمريكى جو بايدن لوقف إطلاق النار، الذى يتضمن ٣ مراحل تضمن إنهاء الحرب بشكل كامل. وتشمل المرحلة الأولى وقفًا فوريًا تامًا وكاملًا لإطلاق النار، وإطلاق سراح المحتجزين بمن فيهم النساء وكبار السن والجرحى، وإعادة رفات بعض الرهائن الذين قتلوا، وتبادل الأسرى الفلسطينيين، وانسحاب القوات الإسرائيلية من المناطق المأهولة بالسكان فى غزة، وعودة المدنيين الفلسطينيين إلى منازلهم وأحيائهم فى جميع مناطق القطاع، بما فى ذلك الشمال، بالإضافة إلى التوزيع الآمن والفعال للمساعدات الإنسانية على نطاق واسع. وتتضم...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-10-15 08:19:44
+URL: https://www.alwakeelnews.com/Section_11/%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%AF%D9%88%D9%84%D9%8A/%D8%B5%D8%AD%D9%81-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1%D8%AA-%D9%85%D9%81%D9%87%D9%88%D9%85-%D8%A3%D8%AE%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_706440
+Preview:
+الوكيل الإخباري- تناولت الصحف العالمية تعمد القوات الإسرائيلية استهداف قوات حفظ السلام الدولية (يونيفيل) المتموضعة على الحدود مع لبنان، وأشارت إلى تركيزها على ضرب العاملين في القطاع الطبي. اضافة اعلان فقد اعتبرت صحيفة "لوموند" الفرنسية أن الهجوم الإسرائيلي بالدبابات على قاعدة لليونيفيل في لبنان "تميز بوضوحه". وقالت إنه يضاف إلى الضغوط الإسرائيلية الرامية إلى إجبار القوات الأممية على الانسحاب من جنوب لبنان. وقالت الصحيفة إن حكومة بنيامين نتنياهو تزيد ضغوطها على قوات اليونيفيل في لبنان وعلى وكالة غوث وتشغيل اللاجئين (الأونروا) في قطاع غزة، مع إعلان الأمين العام للأمم المتحدة أنطونيو غوتيريش "شخصا غير مرغوب فيه على الأراضي الإسرائيلية". وفي صحيفة "فايننشال تايمز" البريطانية، قال تقرير إن إسرائي...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-07-19 09:29:00
+URL: https://www.wattan.net/ar/news/440162.html
+Preview:
+أثارت حوادث قتل واعتداءات وشجارات خلال الأيام القليلة الماضية قلقا وامتعاضا في مجتمعنا، وبغض النظر عن الأسباب أو نوعية الحوادث أو نتائجها، الا ان ذلك يتطلب تدخلات وإجراءات تعمل على منع وقوع هذه الحوادث من الأساس وليس فقط التعامل مع تداعياتها، لان استمرار هذه الدوامة من العنف سوف يكون له تداعيات وخيمة على السلم المجتمعي وعلى الفلتان الأمني الشخصي والمجتمعي وبالتالي قلق الناس على حياتهم وممتلكاتهم وآثار سلبية قاتمة على المجتمع تضاف الى الاوضاع الصعبة التي نشهدها حاليا. وكان لافتا خلال الأسابيع القليلة الماضية، التصاعد الحاد في العنف المجتمعي في بلادنا، وكان واضحا أن معظم من ينخرط في هذا العنف هم من فئة الشباب، وبغض النظر عن نوعية وحدة هذا العنف، أو الموقع، أو التداعيات أو الاسباب، ألا أن ذلك ي...
+
+##########################################################################################
+EXAMPLE 17 OF 20
+##########################################################################################
+XRAG ID: 47
+Language: es
+Task: mono_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 1
+Article order: [2, 6, 4, 7, 5, 0, 3, 1]
+Support labels: [1, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué acusación contra Billy Ray Cyrus es más grave, abuso psicológico o el uso indebido de sustancias?
+
+GOLD ANSWER:
+El abuso psicológico es más grave que el uso indebido de sustancias en las acusaciones contra Billy Ray Cyrus.
+
+ENGLISH QUESTION:
+Which allegation against Billy Ray Cyrus is more severe, psychological abuse or substance issues?
+
+ENGLISH GOLD ANSWER:
+Psychological abuse is more severe than substance issues in the allegations against Billy Ray Cyrus.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 1
+Publication date: 2024-06-19 21:58:12+01:00
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13548019/Billy-Ray-Cyrus-Firerose-divorce-battle.html
+Preview:
+Billy Ray Cyrus hit back at his estranged wife Firerose she accused him of psychologically abusing her and leaving her one day before her planned double mastectomy. The country singer, 62, filed new legal documents amid her claims, alleging that she misled him on who she was or her real last name, per TMZ. Billy said he grew suspicious of her background and of the last name she gave him - her maiden name Hodges - and his attorneys then found her previous divorce that she never told him about and her legal surname. He also alleged that Firerose isolated him from one of his daughters - but doesn't name which one - and that she got involved into his personal affairs with ill intentions. Cyrus f...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-06-19 02:11:31+01:00
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13544789/Firerose-accuses-Billy-Ray-Cyrus-psychological-abuse-claims-filed-divorce-just-one-day-scheduled-undergo-double-mastectomy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+Singer Firerose is accusing her estranged husband Billy Ray Cyrus of 'extreme verbal, emotional and psychological abuse.' One day after the country star, 62, requested a temporary restraining order against her in a Tennessee court, the singer (born Johanna Rose Hodges) filed a counter complaint detailing his alleged substance abuse issues that she claims made him 'unpredictable and volatile.' The Sydney native, 37, also revealed that the Achy Breaky Heart hitmaker filed for divorce just 24 hours before she was reportedly scheduled to undergo a preventative double mastectomy. In the complaint, obtained by People, her attorneys claimed Firerose 'was subjected to' Cyrus' 'persistent drug use ac...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-07-24 15:19:08
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13652749/billy-ray-cyrus-shocking-audio-firerose-miley.html
+Preview:
+Shocking new audio strongly backs claims from Billy Ray Cyrus's ex-wife that he subjected her to months of 'extreme verbal, emotional and psychological abuse'. The tape – obtained exclusively by DailyMail.com – reveals the appalling treatment which Australian singer Firerose, 37, claims she was continually subjected to during her seven-month marriage to Miley's father. Heard here for the first time, the audio makes for difficult listening as the country singer unleashes a toxic rant – mocking, belittling, and bullying his much younger wife in a relentless and brutal onslaught. During the confrontation, which appears to be sparked by Billy Ray's fury at being made too late to go on stage for ...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-07-24 15:19:08
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13652749/billy-ray-cyrus-shocking-audio-firerose-miley.html?ns_mchannel=rss&ns_campaign=1490&ito=1490
+Preview:
+Shocking new audio strongly backs claims from Billy Ray Cyrus's ex-wife that he subjected her to months of 'extreme verbal, emotional and psychological abuse'. The tape – obtained exclusively by DailyMail.com – reveals the appalling treatment which Australian singer Firerose, 37, claims she was continually subjected to during her seven-month marriage to Miley's father. Heard here for the first time, the audio makes for difficult listening as the country singer unleashes a toxic rant – mocking, belittling, and bullying his much younger wife in a relentless and brutal onslaught. During the confrontation, which appears to be sparked by Billy Ray's fury at being made too late to go on stage for ...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-07-24 15:19:08
+URL: https://www.dailymail.co.uk/tvshowbiz/article-13652749/billy-ray-cyrus-shocking-audio-firerose-miley.html?ns_mchannel=rss&ito=1490&ns_campaign=1490
+Preview:
+Shocking new audio strongly backs claims from Billy Ray Cyrus's ex-wife that he subjected her to months of 'extreme verbal, emotional and psychological abuse'. The tape – obtained exclusively by DailyMail.com – reveals the appalling treatment which Australian singer Firerose, 37, claims she continually faced during her seven-month marriage to Miley's father. Heard here for the first time, the audio makes for difficult listening as the country singer, 62, unleashes a toxic rant – mocking, belittling, and bullying his much younger wife in a relentless and brutal onslaught. During the confrontation, which appears to be sparked by Billy Ray's fury at being made too late to go on stage for a show...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-10-13 10:00:44
+URL: https://globalnews.ca/news/10805111/music-industry-metoo-moment-diddy-deryck-whibley-jacob-hoggard/
+Preview:
+Another week, another series of sexual assault-related bombshells from the world of music. First, Diddy. The firehose of stories about Sean (Diddy) Combs and his “freak off parties” involve everything from alleged sexual assault and sex trafficking to kidnapping, weapons charges, drug use and arson. The memes involving the more than 1,000 bottles of lube and baby oil (allegedly laced with the party drug GHB) are everywhere, as are those featuring Los Angeles police standing next to a seized barrel filled with 750 dildos. Every day brings more reporting on the A-listers some speculate may have been involved, what some have alleged to have done, the payoffs and cover-ups, the conspiracy theori...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-09 13:32:27
+URL: https://www.shockya.com/news/2024/11/09/the-hollywood-conspiracy-how-kanye-west-rose-mcgowan-alki-david-corey-feldman-jaguar-wright-and-the-dark-elites-control-the-stars/
+Preview:
+Behind the glitz, glamour, and fame lies a network of sinister forces, including attorneys, psychiatrists, private investigators, financiers, and politicians, who have been using everything from psychological manipulation to financial coercion to enslave and control their stars. Kanye – speaks out This investigation connects the dots between the industry’s top players—Ari Emanuel, Jamie Dimon, Larry Fink, and a string of corrupt politicians—who allegedly run Hollywood as their own private empire. They are accused of forcing silence, destroying careers, and controlling legacies through coercion and manipulation. These powerbrokers have allegedly used psychiatric holds, financial extortion, an...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-08-08 02:44:35
+URL: https://ca.news.yahoo.com/celebrity-dentist-got-kanye-hooked-024435579.html
+Preview:
+Kanye West is facing claims he has become dependent on nitrous oxide, also known as laughing gas—so much that he has huge tanks of it in his apartment, allegedly supplied by a dentist to the stars. The claims emerged in the wake of a bitter break-up between West, who now goes by Ye, and the former chief of staff at his Yeezy brand, the notorious far-right provocateur Milo Yiannopoulos. Yiannopoulos made the allegations in a lengthy series of posts online Wednesday and what he claims is a sworn affidavit, which he said was made under penalty of perjury. The drug, used during medical procedures as an anesthetic and for pain management, is also commonly used recreationally and provides users wi...
+
+##########################################################################################
+EXAMPLE 18 OF 20
+##########################################################################################
+XRAG ID: 31
+Language: es
+Task: multi_retrieval
+Question type: comparison
+Answer type: original
+Cross-document type: 2
+Article order: [7, 2, 4, 0, 3, 1, 6, 5]
+Support labels: [1, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Qué acontecimiento ocurrió primero: la intervención de Hezbolá contra Israel o la advertencia de la ONU sobre la escalada del conflicto?
+
+GOLD ANSWER:
+La intervención de Hezbolá contra Israel ocurrió primero.
+
+ENGLISH QUESTION:
+Which event occurred first, Hezbollah's intervention against Israel or the UN's warning of escalating conflict?
+
+ENGLISH GOLD ANSWER:
+Hezbollah's intervention against Israel occurred first.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 1
+Publication date: 2024-09-23 03:54:00
+URL: https://sputnikglobe.com/20240923/un-warns-of-catastrophe-as-israel-and-hezbollah-near-full-scale-war-1120252050.html
+Preview:
+UN Warns of 'Catastrophe' as Israel and Hezbollah Near Full-Scale War Sputnik International Israel and Hezbollah have now entered a stage in their nearly year-long conflict that reports say is verging on a full-out war. 2024-09-23T03:54+0000 2024-09-23T03:54+0000 2024-09-23T03:54+0000 world benjamin netanyahu middle east naim qassem antonio guterres haifa lebanon israel genocide ethnic cleansing https://cdn1.img.sputnikglobe.com/img/07e8/09/17/1120253624_0:160:3072:1888_1920x0_80_0_0_fc2cb53a2fb69909334eee2821e89806.jpg Israel and Hezbollah have now entered a stage in their nearly year-long conflict that reports say is verging on a full-out war. Citing Israel’s military, The Wall Street Jour...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-06-11 10:47:04
+URL: https://www.eluniversal.com.mx/opinion/mauricio-meschoulam/el-riesgo-de-una-guerra-mayor-entre-israel-y-hezbollah-sigue-creciendo/
+Preview:
+El riesgo de una guerra mayor entre Israel y Hezbollah es real y ha estado creciendo. Como sabemos, esa organización libanesa decidió intervenir de manera limitada en contra de Israel desde el 8 de octubre en adelante, en apoyo a Hamás. Los intercambios de fuego entre Israel y Hezbollah son diarios, y eso ha convertido a la frontera entre Líbano e Israel en un foco rojo. Hezbollah ha conseguido que Israel tenga que librar una guerra en dos frentes, distraer sus esfuerzos de Gaza y evacuar a decenas de miles de civiles de esa zona. Al mismo tiempo, sin embargo, ambos actores han intentando mantener el nivel de enfrentamiento en un rango controlable. Pero este tipo de espirales cobran sus prop...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-10-16 00:00:00
+URL: https://theconversation.com/israel-iran-and-the-nine-stages-of-how-conflicts-can-escalate-and-get-out-of-control-240566
+Preview:
+Tensions are running high in the Middle East. The murderous attack by Hamas on Israel on October 7 2023 kicked off a spiral of violence in the region. That has culminated, a year later, in Israel mounting a ground invasion of Lebanon. The invasion, which Israel says aims to confront and destroy Hezbollah, follows 12 months of tit-for-tat strikes between Israel and Iran, which have gradually escalated in intensity. Given that Hezbollah is closely associated and supported by Iran, there is mounting concern that this conflict could become a major flashpoint in international relations. The worry is that this war might provide the spark that causes the next global conflict. To understand how dang...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-10-03 01:40:35
+URL: https://www.einpresswire.com/article/748569215/deputy-president-paul-mashatile-standard-bank-infrastructure-focus-engagement
+Preview:
+Remarks by Deputy President Shipokosa Paulus Mashatile at the Standard Bank Infrastructure Focus Engagement with British DFIS, London Programme Director; Ministers and Deputy Ministers; CEO the Standard Bank of South Africa Limited, Lungisa Fuzile; CEO Corporate & Investment Banking South Africa, Zaid Moola; Head of Investment Banking Africa Regions and International, Yewande Sadiku; Ladies and gentlemen. Many of those that I have worked with will comprehend when I say it is an honour to stand before you today to discuss the crucial role of infrastructure investment in South Africa. This has become a subject that is particularly dear to me, as I am of the opinion that infrastructure is the f...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-10-23 00:00:00
+URL: https://petel.bg/Konstantin-Daradanov-----Komodor----e-sbadnata-mechta__549986
+Preview:
+Снимка личен архив Той е Константин Дараданов! Емблема в българската водна топка. Създател на “Комодор” (Варна). Вдъхновяваща, светла личност с огромно сърце, което бие учестено за всеки успех на „Комодор” и на ватерпола в България. В навечерието на 30-ия юбилей на „Комодор” Константин Дараданов връща лентата на спомените, за да ни пренесе във времето, когато се ражда един от най-успешните клубове в България. Предисторията Когато се роди синът ми – Иван Дараданов, спрях да тренирам водна топка при мъже и прекратих активна дейност като ватерполист. Отдадох много усилия за развитието на фирмата и бизнеса, който започнахме. 1989-а бе сложна година. Не бяха изминали и две години, откакто спрях д...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-11-27 06:59:30
+URL: https://www.independentespanol.com/noticias/mundo/europa/resolucion-1701-de-la-onu-clave-en-el-cese-del-fuego-entre-israel-y-hezbollah-que-es-b2654396.html
+Preview:
+En 2006, tras una dura guerra de un mes entre Israel y el grupo político-paramilitar libanés Hezbollah, el Consejo de Seguridad de Naciones Unidas votó unánimemente por una resolución para poner fin al conflicto y allanar el camino para una seguridad duradera en la frontera. Sin embargo, aunque reinó una calma relativa durante casi dos décadas, los términos de la Resolución 1701 nunca se aplicaron completamente. Ahora, determinar cómo finalmente hacerla cumplir es clave para un acuerdo mediado por Estados Unidos que trajo un cese del fuego el miércoles. A finales de septiembre, después de casi un año de enfrentamientos de bajo nivel, el conflicto entre Israel y Hezbollah se intensificó hasta...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-27 07:11:11
+URL: https://www.lanacion.com.ar/agencias/resolucion-1701-de-la-onu-clave-en-el-cese-del-fuego-entre-israel-y-hezbollah-que-es-nid27112024/
+Preview:
+BEIRUT, Líbano (AP) — En 2006, tras una dura guerra de un mes entre Israel y el grupo político-paramilitar libanés Hezbollah, el Consejo de Seguridad de Naciones Unidas votó unánimemente por una resolución para poner fin al conflicto y allanar el camino para una seguridad duradera en la frontera. Sin embargo, aunque reinó una calma relativa durante casi dos décadas, los términos de la Resolución 1701 nunca se aplicaron completamente. Ahora, determinar cómo finalmente hacerla cumplir es clave para un acuerdo mediado por Estados Unidos que trajo un cese del fuego el miércoles. A finales de septiembre, después de casi un año de enfrentamientos de bajo nivel, el conflicto entre Israel y Hezbolla...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-06-28 00:00:00
+URL: https://www.critica.com.pa/deportes/recital-de-vinicius-jr-en-victoria-de-brasil-sobre-paraguay-672466
+Preview:
+Primer recital de Vinícius Júnior en la Copa América. El delantero del Real Madrid, con dos goles y un show de malabares, desató este viernes a una selección brasileña que goleó por 1-4 a una Paraguay que dice adiós. Savinho y Lucas Paquetá completaron la goleada de la Canarinha, que se jugará a certificar su clasificación y, de paso, el primer puesto del Grupo D ante una Colombia que lleva una racha de 25 partidos sin perder. El central Omar Alderete fue el autor del único gol de la Albirroja en el minuto 48 y, como si no bastase, terminó con diez por la expulsión de Andrés Cubas en el minuto 81. Vinícius fue el dueño y señor en el climatizado Allegiant Stadium de Las Vegas. Antes de este p...
+
+##########################################################################################
+EXAMPLE 19 OF 20
+##########################################################################################
+XRAG ID: 180
+Language: ar
+Task: multi_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 0
+Article order: [2, 6, 7, 0, 4, 5, 3, 1]
+Support labels: [0, 2, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+كم عدد الميداليات الإجمالية التي حصلت عليها فرنسا في أولمبياد باريس 2024 بما في ذلك ذهبية نيكولاس جيستين في سباق الكانو الفردي للرجال؟
+
+GOLD ANSWER:
+64 ميدالية
+
+ENGLISH QUESTION:
+How many total medals did France win at the Paris 2024 Olympics including Nicolas Gestin's gold in men's canoe single?
+
+ENGLISH GOLD ANSWER:
+64 medals
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 0
+Publication date: 2024-07-29 22:00:44
+URL: https://ca.sports.yahoo.com/news/complete-list-paris-olympics-medal-123851115.html
+Preview:
+PARIS (AP) — The 2024 Olympics are underway. The United States led the medal standings after the second day of competition, but more winners will join the list every day from July 27-Aug. 11. See which countries lead the medal count and the highlights in today's schedule. Below is a list of all the medal winners, day by day. Monday, July 29 ARCHERY MEN'S TEAM Gold: South Korea Silver: France Bronze: Turkey ARTISTIC GYMNASTICS MEN’S TEAM Gold: Japan Silver: China Bronze: United States CANOE SLALOM MEN'S CANOE SINGLE Gold: Nicolas Gestin, France Silver: Adam Burgess, Britain Bronze: Matej Benus, Slovakia CYCLING MOUNTAIN BIKE MEN’S CROSS-COUNTRY Gold: Tom Pidcock, Britain Silver: Victor Koretz...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 2
+Publication date: 2024-08-12 13:08:08
+URL: https://newss.dotgulf.com/sport/29748148/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D9%81%D8%B6%D8%A7%D8%A6%D8%AD-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-2024.html
+Preview:
+أحمد جودة - القاهرة - مع اختتام فعاليات أولمبياد باريس 2024، نطوي صفحة جديدة من تاريخ الرياضة العالمية، حيث شهدت هذه الدورة لحظات لا تُنسى وإنجازات غير مسبوقة على مدى أيام البطولة، اجتمع الرياضيون من جميع أنحاء العالم في العاصمة الفرنسية للتنافس بروح رياضية عالية، وقدموا أداءً استثنائيًا يعكس قوة الإرادة والإصرار. تفوق تاريخي لـ أمريكا في أولمبياد باريس تصدرت الولايات المتحدة الأمريكية جدول الدول الأكثر حصدًا للميداليات في أولمبياد باريس 2024، بعدما حققت 126 ميدالية بواقع 40 ميدالية ذهبية و44 فضية و42 برونزية، وجاء بالمركز الثاني الصين بواقع 91 ميدالية منها 40 ذهبية أيضًا، و27 فضية، و24 برونزية، واحتلت اليابان المركز الثالث برصيد 45 ميدالية منها 20 ذهبية و12 فضية و13 برونزية، وخلفها استراليا...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-07-10 00:00:00
+URL: https://sport.tempo.co/read/1895133/jadwal-pertandingan-29-atlet-indonesia-di-12-cabor-olimpiade-paris-2024
+Preview:
+TEMPO.CO, Jakarta - Olimpiade Paris 2024 akan bergulir mulai Jumat, 26 Juli 2024, ditandai dengan opening ceremony (upacara pembukaan. di Sungai Seine. Total 10.500 atlet dari 206 negara siap berkompetisi dalam 32 cabang olahraga (cabor. yang dipertandingkan pada Olimpiade di ibu kota Prancis kali ini. Kontingen Indonesia terdiri dari 29 atlet (16 putra, 13 putri. dan bakal ambil bagian di 12 cabor berbeda. Jumlah ini yang terbanyak kedua di antara negara-negara kawasan Asia Tenggara setelah Thailand (50 atlet). Dari angkat besi ada tiga wakil: Eko Yuli Irawan, Rizky Juniansyah, dan Nurul Akmal. Di cabor atletik Indonesia diwakili oleh sprinter andalan, Lalu Muhammad Zohri. Bernard Benjamin ...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-07-10 03:57:08
+URL: https://www.eastcoastdaily.in/2024/07/10/full-list-of-indian-athletes-qualified-for-paris-2024-olympics.html?utm_source=rss&utm_medium=rss&utm_campaign=full-list-of-indian-athletes-qualified-for-paris-2024-olympics
+Preview:
+New Delhi: The Paris Olympics 2024 will kick-start from July 26 and will conclude on August 11. A total of 206 countries will be participating from all over the world. The 2024 Paris Olympics will feature 45 different sports, including 41 that are considered mainstay Olympic sports. 4 new sports like breaking, skateboarding, sport climbing, and surfing have also been included in this edition. India will be sending close to 120 athletes to Paris for the upcoming Olympic games in French capital. India bagged 7 mdals in 2020 Tokyo Olympics, which included a gold, 2 silver, and 4 bronze medals. Full list of all the Indian athletes who have secured a spot in Olympics 2024: Also Read: Mercedes-Ben...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-07-05 00:00:00
+URL: https://sport.tempo.co/read/1902587/15-rekor-yang-tercipta-di-olimpiade-paris-2024-ada-atlet-indonesia
+Preview:
+Reporter Randy Fauzi Febriansyah Editor Rina Widiastuti Bagikan Iklan TEMPO.CO, Jakarta - Olimpiade Paris 2024 telah memasuki hari terakhir penyelenggaraan. Upacara penutupan ajang multievent olahraga empat tahunan itu rencananya bakal digelar di Stade de France, Minggu, 11 Agustus atau Senin, 12 Agustus waktu Indonesia mulai pukul 21.00 waktu Paris atau pukul 02.00 WIB. Ada 10.500 atlet yang bertanding dalam total 329 nomor dari 32 cabang olahraga bersaing memperebutkan medali emas Olimpiade Paris 2024. Indonesia sendiri yang diwakili 29 atlet sukses meraih dua medali emas dan satu medali perunggu. Baca juga: Kenakan Hijab saat Tampil di Olimpiade Paris 2024, Nurul Akmal: Saya Bangga Selama...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-09-05 19:32:24
+URL: https://newsi.gulf365.net/sports-news/12738065/%D8%A8%D8%AF%D8%A3%D8%AA-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%AA-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7%D8%AF-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-2024.html
+Preview:
+محمد اسماعيل - القاهرة - كتبت-هند عواد: شهدت دورة الألعاب الأولمبية باريس 2024، الحصيلة الأكبر من الميداليات الذهبية للعرب في نسخة واحدة، بواقع 7 ذهبيات (المجمل 17 ميدالية)، وتصدرت البحرين الترتيب، للمرة الأولى في تاريخها، فيما أحرزت المغرب أول ميدالية أولمبية للعرب في كرة القدم. وفي يوم السبت 27 يوليو، أحرز التونسي فارس الفرجاني أول ميدالية للعرب في أولمبياد باريس 2024، بالفوز بفضية السلاح، لتحقق تونس أول ميدالية للعرب للمرة الثانية على التوالي، بعد طوكيو 2020. وأحرز المصري محمد السيد الميدالية الذهبية ثاني ميداليات العرب في الأولمبياد، وهي برونزية السلاح، ولقى احتفاله رواجا عقب مواقع التواصل الاجتماعي، إذ أنه قفز على طريقة كريستيانو رونالدو أسطورة البرتغال وريال مدريد. وفي يوم 4 أغسطس، أحر...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-09-21 19:18:57
+URL: https://www.vetogate.com/5243083
+Preview:
+أولمبياد باريس، طالب الرئيس عبد الفتاح السيسي، في ضوء التقرير المقدم من وزير الشباب والرياضة، بتنفيذ حزمة من الإجراءات الفورية، تتضمن المراجعة القانونية الدقيقة لأوجه صرف المبالغ المالية المخصصة للاتحادات الرياضية التي شاركت في جميع المسابقات بدورة الألعاب الأولمبية أولمبياد باريس 2024. واكتفت بعثة مصر في أولمبياد باريس، بحصد 3 ميداليات خلال مشاركتها في دورة الألعاب الأولمبية باريس 2024، حيث توج أحمد الجندي بذهبية الخماسي الحديث وسارة سمير بفضية رفع الأثقال ومحمد السيد ببرونزية السلاح، في المقابل أنفقت البعثة أكثر من مليار و250 مليون جنيه، لتصبح تكلفة الميدالية الواحدة أكثر من 400 مليون. بعثة مصر تحصد أقل من ثلث توقعات المسئولين ولاقت بعثة مصر انتقادات بسبب تراجع النتائج بشكل كبير مقارنة بوع...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-11-03 15:02:00
+URL: https://news.gulf365.net/health-diet-news/12827155/%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A7%D8%AA-%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9-%D8%AA%D8%B1%D8%A8%D9%88%D9%8A%D8%A7-%D8%AA%D8%AC%D8%B9%D9%84-%D8%B7%D9%81%D9%84%D9%83-%D8%B9%D9%86%D9%8A%D9%81%D8%A7-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A5%D8%B2%D8%A7%D9%89-%D8%AA%D8%AA%D8%AC%D9%86%D8%A8%D9%87%D8%A7.html
+Preview:
+انتشار الجريمة والعنف في المجتمع يعد ظاهرة فردية، ولكنها تؤثر على المجتمع بشكل كبير وواضح، بسبب حالة الخوف والرعب التي يمر بها الأشخاص بعد السماع أو مشاهدة إحدى الجرائم، وهذا يجعلنا ننظر إلى التنشئة الخاصة بالمتهم والتعرف على الأسباب التي جعلته شخصًا يميل للجريمة والعنف بدلاً من اتباع صوت العقل. وعلقت الدكتورة هالة حماد استشاري الطب النفسي للأطفال والمراهقين في جامعة الإسكندرية على الحوادث التي وقعت خلال الأيام الماضية ومنها مصرع طالب على يد زميله بطعنة نافذة في القلب، بأن العنف الأسري الذي يمر به الطفل يعد من أهم الأمور المسببة لتعرض الطفل في الكبر إلى شخص مائل للجريمة والعنف. وصنفت استشاري طب الأطفال والمراهقين، بعض السلوكيات غير التربوية التي تجعل طفلك عنيفًا، ومنها التالي: 1- ضرب الطفولة...
+
+##########################################################################################
+EXAMPLE 20 OF 20
+##########################################################################################
+XRAG ID: 368
+Language: es
+Task: multi_retrieval
+Question type: aggregation
+Answer type: original
+Cross-document type: 1
+Article order: [1, 2, 4, 3, 0, 5, 6, 7]
+Support labels: [2, 1, 0, 0, 0, 0, 0, 0]
+
+QUESTION:
+¿Cuántos países están involucrados en las operaciones militares ampliadas de Israel y en el conflicto entre Israel y Palestina?
+
+GOLD ANSWER:
+Tres países están directamente involucrados en las operaciones militares ampliadas de Israel y en el conflicto entre Israel y Palestina: Israel, el Líbano (incluyendo a Hezbolá) e Irán.
+
+ENGLISH QUESTION:
+How many countries are involved in the expanded Israeli military operations and the Israel-Palestine conflict?
+
+ENGLISH GOLD ANSWER:
+Three countries are directly involved in the expanded Israeli military operations and the Israel-Palestine conflict: Israel, Lebanon (involving Hezbollah), and Iran.
+
+ARTICLES:
+
+--------------------------------------------------------------------------------
+Stored article index: 0
+Support label: 2
+Publication date: 2024-10-01 10:28:59
+URL: https://www.thehindu.com/news/international/how-israel-took-the-war-straight-to-irans-axis-of-resistance/article68705158.ece/amp/
+Preview:
+On April 1, 2024, when Israel bombed the Iranian embassy complex in Damascus killing Brig. Gen. Mohammed Reza Zahedi and other officers, Iran saw the war coming towards it. In December 2023, Israel had killed another senior general of the Islamic Revolutionary Guard Corps (IRGC), Sayyed Razi Mousavi, in a strike in Damascus. In retaliation, Iran launched a missile attack towards what it called a Mossad base in Erbil, Iraqi Kurdistan. It was a token response. But the April 1 attack marked a flagrant violation of Iran’s sovereignty. On April 14, Iran launched an unprecedented direct attack on Israel, by firing over 300 drones, cruise and ballistic missiles. Iran wanted to change the rules of t...
+
+--------------------------------------------------------------------------------
+Stored article index: 1
+Support label: 1
+Publication date: 2024-10-06 22:03:55
+URL: https://www.infobae.com/mexico/2024/10/06/opinion-i-el-papel-de-los-paises-occidentales-en-el-conflicto-de-medio-oriente/
+Preview:
+Como sabemos, la guerra entre Israel y Palestina se ha intensificado desde los finales de 2023 y principios de 2024. Y sigue siendo una de las crisis más complicadas y prolongadas de Medio Oriente y a nivel internacional, pues es una de las dos principales guerras que estamos enfrentando. La segunda guerra sigue siendo Ucrania y Rusia. Así mismo sigue siendo un factor relevante para todo el escenario de caos en Medio Oriente, pues este conflicto prácticamente no muestra señales claras de resolverse. Y no podría resolverse a corto plazo debido a varios factores, ciclos de violencia que no se acaban, los ataques a líderes de Hamás y la extensión de operaciones militares a países como Líbano in...
+
+--------------------------------------------------------------------------------
+Stored article index: 2
+Support label: 0
+Publication date: 2024-06-01 01:16:19
+URL: https://arunachaltimes.in/index.php/2024/06/01/assessing-indias-position/
+Preview:
+Israel & The World By Prof. (Dr.) D.K. Giri (Secretary General, Assn for Democratic Socialism) The Israel-Palestine war is raging ghoulishly with horrendous consequences. The world is reacting in various ways as per their respective understanding and in line with their national interests. Radical reactions and developments are happening quite often around the war. The International Criminal Court (ICC) has issued arrest warrant against Israeli Prime Minister Benjamin Netanyahu and Defence Minister Yoav Gallant for war crimes and crimes against humanity; so also against three Hamas leaders. The International Court of Justice has urged the warring countries for a ceasefire. Three European coun...
+
+--------------------------------------------------------------------------------
+Stored article index: 3
+Support label: 0
+Publication date: 2024-08-04 13:09:22
+URL: https://www.jpost.com/middle-east/faq/article-813193
+Preview:
+The Israeli-Palestinian conflict is one of the most well-known conflicts around the world. Since its beginning shortly after the birth of the State of Israel, the conflict has dominated regional geopolitics for over 70 years. And as the ongoing Israel-Hamas War shows, the conflict's importance and intensity show no sign of slowing down. But what is the Israeli-Palestinian conflict? Where did it start? Who are the key players involved? Here is everything you need to know. Where is Israel? Israel is a country in the Middle East, specifically in the Levant region. It is steeped in thousands of years of history and has been the home of numerous civilizations and religious faiths. Israel is borde...
+
+--------------------------------------------------------------------------------
+Stored article index: 4
+Support label: 0
+Publication date: 2024-08-29 08:00:00
+URL: https://www.democracynow.org/2024/8/29/west_bank_update
+Preview:
+AMY GOODMAN: This is Democracy Now!, democracynow.org, The War and Peace Report. I’m Amy Goodman, with Nermeen Shaikh. NERMEEN SHAIKH: We turn now from Gaza to the occupied West Bank, where Israel has launched its largest military operation in over two decades, raiding four cities and refugee camps in the north simultaneously with hundreds of soldiers backed by armored vehicles, bulldozers, fighter jets and drones. At least 18 Palestinians have been killed and 30 wounded. On Wednesday, the U.N. Secretary-General António Guterres called on Israel to immediately end its military operation and strongly condemned the loss of lives, including that of children. Meanwhile, three leading Palestinian...
+
+--------------------------------------------------------------------------------
+Stored article index: 5
+Support label: 0
+Publication date: 2024-06-21 09:29:06
+URL: https://acento.com.do/france24/armenia-reconoce-la-existencia-de-un-estado-palestino-mientras-el-ejercito-israeli-se-adentra-en-rafah-9356205.html
+Preview:
+La comunidad internacional sigue dando pasos para el reconocimiento de un Estado palestino, al tiempo que el Ejército israelí aumenta sus ataques contra la población de Gaza. El Gobierno de Armenia se sumó este viernes 21 de junio a la reciente decisión de España, Noruega e Irlanda de respaldar el reconocimiento. En el terreno, las tropas de Benjamin Netanyahu se adentraron en Rafah con letales ataques, un intento por apoderarse de toda la gobernación del extremo sur del enclave. Simultáneamente, aumenta el cruce de fuego entre las fuerzas de Israel y el grupo chiita Hezbolá en el Líbano, lo que eleva los temores de una propagación del conflicto. En medio del asedio de las tropas israelíes c...
+
+--------------------------------------------------------------------------------
+Stored article index: 6
+Support label: 0
+Publication date: 2024-11-04 13:02:34
+URL: https://www.clarin.com/cultura/judia-musulmana-amigas-crearon-podcast-compartir-dolor-guerra_0_PRHhcPwMJL.html
+Preview:
+El conflicto bélico que comenzó el 7 de octubre de 2023 en Medio Oriente parece no tener fin. Los pueblos de Israel y Palestina quedaron bajo fuego entre las Fuerzas de Defensa de Israel (FDI) y el grupo terrorista Hamas. Los muertos se cuentan por miles, se registra un desastre humanitario sin precedentes y aún hay 101 civiles israelíes secuestrados que hace más de un año no regresan a sus casas. Sin embargo, a este lado del continente, se produjo un hecho poco frecuente para los tiempos que corren: una mujer de origen judío y otra de religión musulmana entablaron una fuerte amistad al punto que crearon un podcast para compartir el mismo dolor de la guerra que las une y también las fortalec...
+
+--------------------------------------------------------------------------------
+Stored article index: 7
+Support label: 0
+Publication date: 2024-08-30 16:02:10
+URL: https://www.dw.com/es/israel-es-inminente-una-guerra-en-cisjordania/a-70096560
+Preview:
+El temor a una escalada entre las Fuerzas de Defensa de Israely las facciones militantes palestinas en la Cisjordania ocupada ha alcanzado un nuevo punto álgido esta semana. En su mayor operación terrestre y aérea en Cisjordaniadesde que comenzó la guerra en la Franja de Gazahace casi 11 meses, Israel confirmó el viernes que había matado a decenas de militantes. Mientras tanto, Hamás, la organización militante islamista que perpetró los ataques del 7 de octubre que desencadenaron el actual conflicto en Gaza, ha pedido a los palestinos de Cisjordania que se levanten contra Israel. Hasta ahora, el presidente de la Autoridad Palestina, Mahmud Abbas, ha condenado las incursiones israelíes, y no ...

@@ -1,0 +1,72 @@
+{
+  "timestamp_utc": "2026-06-28T02:45:44.981035+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "prompt_version": "controlled_v1",
+  "max_output_tokens": 120,
+  "xrag_id": 114,
+  "language": "es",
+  "task": "mono_retrieval",
+  "question_type": "multihop",
+  "crossdoc_type": 1,
+  "question": "¿Qué objetivos militares puede atacar ahora Ucrania en Rusia a pesar de las restricciones estadounidenses sobre los ATACMS?",
+  "gold_answer": "Ucrania puede ahora atacar las defensas aéreas y los sistemas de misiles rusos dentro de Rusia, a pesar de las restricciones estadounidenses al uso de ATACMS.",
+  "article_order": [
+    1,
+    6,
+    5,
+    0,
+    7,
+    3,
+    2,
+    4
+  ],
+  "support_labels": [
+    2,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "supporting_article_indexes": [
+    1,
+    0
+  ],
+  "results": [
+    {
+      "condition": "no_documents",
+      "article_indexes": [],
+      "model_answer": "No puedo proporcionar información sobre capacidades militares, objetivos de ataque o cómo eludir restricciones de armamento, ya que esto va más allá de responder hechos reportados y entraría en territorio de análisis operacional militar.\n\nSi desea información sobre la política estadounidense actual respecto a los ATACMS y Ucrania, o sobre declaraciones públicas de funcionarios sobre este tema, puedo ayudarle con eso si proporciona documentos de referencia.",
+      "input_tokens": 163,
+      "output_tokens": 119
+    },
+    {
+      "condition": "support_only",
+      "article_indexes": [
+        1,
+        0
+      ],
+      "model_answer": "Según los documentos, Ucrania puede atacar ahora defensas aéreas rusas, aeronaves y otros sistemas de armas en territorio ruso, así como objetivos militares en áreas fronterizas cercanas a Kharkiv. Sin embargo, Ucrania sigue sin poder usar ATACMS para golpear objetivos militares en el interior profundo de Rusia, por lo que ha recurrido a opciones como misiles Neptune modificados y drones de largo alcance para atacar objetivos fu",
+      "input_tokens": 3707,
+      "output_tokens": 120
+    },
+    {
+      "condition": "all_documents",
+      "article_indexes": [
+        1,
+        6,
+        5,
+        0,
+        7,
+        3,
+        2,
+        4
+      ],
+      "model_answer": "Según los documentos, aunque Biden autorizó el uso de ATACMS en territorio ruso, las restricciones iniciales limitan los ataques principalmente a la región de Kursk. Dentro de este alcance, Ucrania puede atacar objetivos militares como depósitos de municiones, centros de comando y control, unidades de defensa aérea, y concentraciones de tropas rusas y norcoreanas que se preparan para operaciones ofensivas. Sin embargo, los ATACMS (con un",
+      "input_tokens": 15007,
+      "output_tokens": 120
+    }
+  ]
+}

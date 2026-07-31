@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-06-28T02:34:11.236719+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "prompt_version": "v3_parametric_knowledge",
+  "condition": "no_documents",
+  "xrag_id": 114,
+  "language": "es",
+  "task": "mono_retrieval",
+  "question_type": "multihop",
+  "crossdoc_type": 1,
+  "question": "¿Qué objetivos militares puede atacar ahora Ucrania en Rusia a pesar de las restricciones estadounidenses sobre los ATACMS?",
+  "gold_answer": "Ucrania puede ahora atacar las defensas aéreas y los sistemas de misiles rusos dentro de Rusia, a pesar de las restricciones estadounidenses al uso de ATACMS.",
+  "model_answer": "Según las restricciones estadounidenses sobre los ATACMS, Ucrania puede atacar objetivos militares en Rusia que se encuentren dentro del rango de otros sistemas de armas que sí tiene autorizado usar, como:\n\n1. **Drones y vehículos aéreos no tripulados** - pueden atacar objetivos a mayor distancia\n2. **Misiles de crucero Storm Shadow/SCALP** - de fabricación británica/francesa, con alcance de hasta 250 km\n3. **Sistemas de artillería de largo alcance** - dentro de sus capacidades autorizadas\n4. **Objetivos en la región de Kursk** - donde Ucrania mantiene territorio ocupado, permitiendo ataques más cercanos\n\nLas restricciones estadounidenses sobre ATACMS se enfocaban principalmente en limitar ataques profundos en territorio ruso, pero Ucrania mantiene otras capacidades para atacar infraestructura militar, bases aéreas, depósitos de municiones y posiciones de tropas rusas dentro del rango de sus otros sistemas de armas autorizados.",
+  "input_tokens": 135,
+  "output_tokens": 266
+}

@@ -1,0 +1,88 @@
+BM25 TOP-K FAILURE ANALYSIS
+======================================================================
+Results file: outputs\bm25_topk_eval_50.csv
+Examples: 50
+
+Top-K recommendation:
+----------------------------------------------------------------------
+Top-1: complete=7/50, avg_recall=0.250, selection_score=7.200
+Top-2: complete=20/50, avg_recall=0.540, selection_score=20.440
+Top-3: complete=25/50, avg_recall=0.650, selection_score=25.500
+Top-4: complete=32/50, avg_recall=0.740, selection_score=32.540
+
+Recommended starting Top-K for system v1: Top-4
+
+Interpretation:
+Use the smallest K that gives a strong complete-support gain. A larger K can retrieve more support, but it also sends more distractor evidence to the generator.
+
+Failure summary for Top-1
+----------------------------------------------------------------------
+Missing complete support: 43/50
+Failures by language: {'ar': 20, 'es': 23}
+Failures by task: {'mono_retrieval': 24, 'multi_retrieval': 19}
+Failures by question type: {'multihop': 9, 'comparison': 14, 'set': 7, 'aggregation': 13}
+Support-rank patterns among failures:
+  [2]: 9
+  [1, 2]: 4
+  [3, 4]: 4
+  [5]: 3
+  [1, 3]: 3
+  [3, 5]: 2
+  [1, 5]: 2
+  [2, 3]: 2
+  [2, 5]: 2
+  [7, 8]: 1
+
+Failure summary for Top-2
+----------------------------------------------------------------------
+Missing complete support: 30/50
+Failures by language: {'es': 22, 'ar': 8}
+Failures by task: {'mono_retrieval': 11, 'multi_retrieval': 19}
+Failures by question type: {'multihop': 6, 'comparison': 12, 'set': 5, 'aggregation': 7}
+Support-rank patterns among failures:
+  [3, 4]: 4
+  [5]: 3
+  [1, 3]: 3
+  [3, 5]: 2
+  [1, 5]: 2
+  [2, 3]: 2
+  [2, 5]: 2
+  [7, 8]: 1
+  [1, 4]: 1
+  [2, 8]: 1
+
+Failure summary for Top-3
+----------------------------------------------------------------------
+Missing complete support: 25/50
+Failures by language: {'es': 19, 'ar': 6}
+Failures by task: {'mono_retrieval': 8, 'multi_retrieval': 17}
+Failures by question type: {'multihop': 5, 'comparison': 12, 'set': 3, 'aggregation': 5}
+Support-rank patterns among failures:
+  [3, 4]: 4
+  [5]: 3
+  [3, 5]: 2
+  [1, 5]: 2
+  [2, 5]: 2
+  [7, 8]: 1
+  [1, 4]: 1
+  [2, 8]: 1
+  [2, 6]: 1
+  [7]: 1
+
+Failure summary for Top-4
+----------------------------------------------------------------------
+Missing complete support: 18/50
+Failures by language: {'es': 12, 'ar': 6}
+Failures by task: {'mono_retrieval': 5, 'multi_retrieval': 13}
+Failures by question type: {'multihop': 2, 'comparison': 9, 'set': 3, 'aggregation': 4}
+Support-rank patterns among failures:
+  [5]: 3
+  [3, 5]: 2
+  [1, 5]: 2
+  [2, 5]: 2
+  [7, 8]: 1
+  [2, 8]: 1
+  [2, 6]: 1
+  [7]: 1
+  [5, 6]: 1
+  [6, 7]: 1

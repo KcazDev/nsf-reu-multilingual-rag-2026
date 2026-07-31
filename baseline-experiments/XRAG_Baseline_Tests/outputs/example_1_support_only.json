@@ -1,0 +1,34 @@
+{
+  "timestamp_utc": "2026-06-28T02:42:28.796086+00:00",
+  "model": "claude-haiku-4-5-20251001",
+  "prompt_version": "support_only_v1",
+  "condition": "support_only",
+  "xrag_id": 114,
+  "language": "es",
+  "task": "mono_retrieval",
+  "question_type": "multihop",
+  "crossdoc_type": 1,
+  "question": "¿Qué objetivos militares puede atacar ahora Ucrania en Rusia a pesar de las restricciones estadounidenses sobre los ATACMS?",
+  "gold_answer": "Ucrania puede ahora atacar las defensas aéreas y los sistemas de misiles rusos dentro de Rusia, a pesar de las restricciones estadounidenses al uso de ATACMS.",
+  "model_answer": "Según los documentos, Ucrania puede atacar ahora los siguientes objetivos militares en Rusia:\n\n- Defensas aéreas rusas en territorio ruso\n- Algunas aeronaves y otros sistemas de armas que disparan contra Ucrania\n- Objetivos militares en áreas fronterizas cercanas a Kharkiv\n\nSin embargo, los documentos aclaran que **existen restricciones estadounidenses sobre los ATACMS** que limitan lo que Ucrania puede hacer. Específicamente:\n\n- Estados Unidos no permite que Ucrania golpee profundamente en territorio ruso para alcanzar objetivos militares lejanos\n- Ucrania no puede usar ATACMS para atacar bases aéreas rusas importantes que están fuera del alcance de otras armas permitidas\n- Debido a estas limitaciones, Ucrania ha tenido que recurrir a opciones caseras como misiles Neptune o drones de largo alcance para atacar objetivos más profundos en Rusia\n\nLos documentos indican que el Presidente Zelenskyy ha solicitado que se relajen aún más estas restricciones para poder destruir los aviones de combate rusos que lanzan bombas planeadas.",
+  "article_order": [
+    1,
+    6,
+    5,
+    0,
+    7,
+    3,
+    2,
+    4
+  ],
+  "supporting_article_indexes": [
+    1,
+    0
+  ],
+  "supporting_article_labels": [
+    2,
+    2
+  ],
+  "input_tokens": 3686,
+  "output_tokens": 296
+}

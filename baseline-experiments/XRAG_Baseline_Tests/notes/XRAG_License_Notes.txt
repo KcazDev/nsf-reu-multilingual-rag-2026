@@ -1,0 +1,35 @@
+XRAG Dataset License Notes
+
+Dataset: XRAG
+Full name: Cross-lingual Retrieval-Augmented Generation
+
+Authors:
+Wei Liu
+Sony Trenous
+Leonardo F. R. Ribeiro
+Bill Byrne
+Felix Hieber
+
+Dataset source:
+AmazonScience/XRAG on Hugging Face
+
+License:
+Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+Permitted use:
+The dataset may be used and shared for noncommercial research
+as long as the original creators are properly credited.
+
+REU use:
+This project is academic and noncommercial, so the dataset may
+be used for the preliminary experiments.
+
+Citation:
+Liu, W., Trenous, S., Ribeiro, L. F. R., Byrne, B., & Hieber, F.
+(2025). XRAG: Cross-lingual Retrieval-Augmented Generation.
+Findings of the Association for Computational Linguistics:
+EMNLP 2025, 15669–15690.
+
+Date license checked:
+June 27, 2026

@@ -1,0 +1,59 @@
+BM25 TOP-K RETRIEVAL SUMMARY
+======================================================================
+Examples: 50
+
+Overall metrics:
+Top-1: Precision=0.360, Recall=0.250, Complete support=7/50
+Top-2: Precision=0.380, Recall=0.540, Complete support=20/50
+Top-3: Precision=0.327, Recall=0.650, Complete support=25/50
+Top-4: Precision=0.285, Recall=0.740, Complete support=32/50
+MRR: 0.598
+
+By language:
+----------------------------------------------------------------------
+ar (25 examples)
+  Top-1: Recall=0.320, Complete=5/25
+  Top-2: Recall=0.780, Complete=17/25
+  Top-3: Recall=0.840, Complete=19/25
+  Top-4: Recall=0.840, Complete=19/25
+es (25 examples)
+  Top-1: Recall=0.180, Complete=2/25
+  Top-2: Recall=0.300, Complete=3/25
+  Top-3: Recall=0.460, Complete=6/25
+  Top-4: Recall=0.640, Complete=13/25
+
+By task:
+----------------------------------------------------------------------
+mono_retrieval (30 examples)
+  Top-1: Recall=0.283, Complete=6/30
+  Top-2: Recall=0.683, Complete=19/30
+  Top-3: Recall=0.783, Complete=22/30
+  Top-4: Recall=0.850, Complete=25/30
+multi_retrieval (20 examples)
+  Top-1: Recall=0.200, Complete=1/20
+  Top-2: Recall=0.325, Complete=1/20
+  Top-3: Recall=0.450, Complete=3/20
+  Top-4: Recall=0.575, Complete=7/20
+
+By question type:
+----------------------------------------------------------------------
+aggregation (14 examples)
+  Top-1: Recall=0.179, Complete=1/14
+  Top-2: Recall=0.607, Complete=7/14
+  Top-3: Recall=0.714, Complete=9/14
+  Top-4: Recall=0.786, Complete=10/14
+comparison (15 examples)
+  Top-1: Recall=0.233, Complete=1/15
+  Top-2: Recall=0.433, Complete=3/15
+  Top-3: Recall=0.533, Complete=3/15
+  Top-4: Recall=0.633, Complete=6/15
+multihop (13 examples)
+  Top-1: Recall=0.385, Complete=4/13
+  Top-2: Recall=0.615, Complete=7/13
+  Top-3: Recall=0.731, Complete=8/13
+  Top-4: Recall=0.885, Complete=11/13
+set (8 examples)
+  Top-1: Recall=0.188, Complete=1/8
+  Top-2: Recall=0.500, Complete=3/8
+  Top-3: Recall=0.625, Complete=5/8
+  Top-4: Recall=0.625, Complete=5/8

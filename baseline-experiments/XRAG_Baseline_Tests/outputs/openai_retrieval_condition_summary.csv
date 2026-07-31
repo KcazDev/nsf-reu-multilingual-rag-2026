@@ -1,0 +1,5 @@
+﻿condition,responses,total_score,possible_score,correctness_percentage,fully_correct,partially_correct,incorrect,refusals,wrong_language,unsupported_information
+no_documents,20,27,40,67.5,12,3,5,0,0,8
+support_only,20,30,40,75.0,12,6,2,0,0,2
+all_documents,20,26,40,65.0,10,6,4,0,0,9
+bm25_top2,20,31,40,77.5,14,3,3,0,0,6
