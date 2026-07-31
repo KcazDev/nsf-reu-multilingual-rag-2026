@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific exclusions
+.idea/
+.vscode/
+
+# Local backup copies
+app_basic_backup.py
+app_v3_final_backup.py
+src/*_final_backup.py
+
+# Local secrets
+.env.*
+!.env.example
+
+# Temporary and local model storage
+models/
+model_cache/
+huggingface_cache/
+*.tmp
+*.bak
+
+# Full XRAG source dataset - download separately
+data/xrag.dev.jsonl
+outputs/v3_generation_top12_max4_prompt2/v3_filtered_top12_generation_review (2).csv

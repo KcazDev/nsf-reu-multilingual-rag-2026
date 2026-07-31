@@ -1,0 +1,122 @@
+BGE-M3 CROSS-STYLE SENTENCE RETRIEVAL SUMMARY
+==============================================================================
+Created UTC: 2026-07-15T19:12:48.516179+00:00
+Sample file: C:\Users\Ekalk\Desktop\NSF_REU_2026\Project\Multilingual_RAG_System\data\xrag_eval_sample_50.jsonl
+Examples evaluated: 50
+Embedding model: BAAI/bge-m3
+Device: cpu
+Retrieval granularity: sentence
+Maximum sequence length: 512
+Sentence caps tested: [3, 5, 10, 20, 50]
+
+Important evaluation note
+------------------------------------------------------------------------------
+XRAG provides article-level support labels rather than exact answer-sentence labels.
+A retrieved sentence is therefore counted as relevant when it comes from a labeled support article.
+These metrics measure support-article coverage from sentence retrieval, not exact gold-sentence recall.
+
+Overall metrics
+------------------------------------------------------------------------------
+Average sentence units per example: 448.1
+Support-article sentence MRR: 0.605
+
+Top-3
+  Average sentence precision: 0.407
+  Average support-article recall: 0.550
+  Any support retrieved: 35/50 (70.0%)
+  Complete support retrieved: 20/50 (40.0%)
+
+Top-5
+  Average sentence precision: 0.352
+  Average support-article recall: 0.630
+  Any support retrieved: 40/50 (80.0%)
+  Complete support retrieved: 23/50 (46.0%)
+
+Top-10
+  Average sentence precision: 0.308
+  Average support-article recall: 0.770
+  Any support retrieved: 46/50 (92.0%)
+  Complete support retrieved: 31/50 (62.0%)
+
+Top-20
+  Average sentence precision: 0.300
+  Average support-article recall: 0.880
+  Any support retrieved: 48/50 (96.0%)
+  Complete support retrieved: 40/50 (80.0%)
+
+Top-50
+  Average sentence precision: 0.282
+  Average support-article recall: 1.000
+  Any support retrieved: 50/50 (100.0%)
+  Complete support retrieved: 50/50 (100.0%)
+
+Performance by language
+------------------------------------------------------------------------------
+ar (25 examples)
+  Top-3: Sentence precision=0.347, Support-article recall=0.580, Complete=12/25
+  Top-5: Sentence precision=0.320, Support-article recall=0.700, Complete=14/25
+  Top-10: Sentence precision=0.264, Support-article recall=0.840, Complete=18/25
+  Top-20: Sentence precision=0.238, Support-article recall=0.900, Complete=21/25
+  Top-50: Sentence precision=0.248, Support-article recall=1.000, Complete=25/25
+  Support-article sentence MRR: 0.585
+es (25 examples)
+  Top-3: Sentence precision=0.467, Support-article recall=0.520, Complete=8/25
+  Top-5: Sentence precision=0.384, Support-article recall=0.560, Complete=9/25
+  Top-10: Sentence precision=0.352, Support-article recall=0.700, Complete=13/25
+  Top-20: Sentence precision=0.362, Support-article recall=0.860, Complete=19/25
+  Top-50: Sentence precision=0.317, Support-article recall=1.000, Complete=25/25
+  Support-article sentence MRR: 0.626
+
+Performance by retrieval task
+------------------------------------------------------------------------------
+mono_retrieval (30 examples)
+  Top-3: Sentence precision=0.344, Support-article recall=0.517, Complete=12/30
+  Top-5: Sentence precision=0.313, Support-article recall=0.633, Complete=15/30
+  Top-10: Sentence precision=0.277, Support-article recall=0.817, Complete=22/30
+  Top-20: Sentence precision=0.258, Support-article recall=0.867, Complete=24/30
+  Top-50: Sentence precision=0.229, Support-article recall=1.000, Complete=30/30
+  Support-article sentence MRR: 0.557
+multi_retrieval (20 examples)
+  Top-3: Sentence precision=0.500, Support-article recall=0.600, Complete=8/20
+  Top-5: Sentence precision=0.410, Support-article recall=0.625, Complete=8/20
+  Top-10: Sentence precision=0.355, Support-article recall=0.700, Complete=9/20
+  Top-20: Sentence precision=0.362, Support-article recall=0.900, Complete=16/20
+  Top-50: Sentence precision=0.363, Support-article recall=1.000, Complete=20/20
+  Support-article sentence MRR: 0.677
+
+Performance by question type
+------------------------------------------------------------------------------
+aggregation (14 examples)
+  Top-3: Sentence precision=0.429, Support-article recall=0.643, Complete=7/14
+  Top-5: Sentence precision=0.357, Support-article recall=0.786, Complete=8/14
+  Top-10: Sentence precision=0.300, Support-article recall=0.857, Complete=10/14
+  Top-20: Sentence precision=0.314, Support-article recall=0.893, Complete=11/14
+  Top-50: Sentence precision=0.300, Support-article recall=1.000, Complete=14/14
+  Support-article sentence MRR: 0.677
+comparison (15 examples)
+  Top-3: Sentence precision=0.444, Support-article recall=0.567, Complete=5/15
+  Top-5: Sentence precision=0.387, Support-article recall=0.600, Complete=6/15
+  Top-10: Sentence precision=0.340, Support-article recall=0.733, Complete=8/15
+  Top-20: Sentence precision=0.337, Support-article recall=0.933, Complete=13/15
+  Top-50: Sentence precision=0.317, Support-article recall=1.000, Complete=15/15
+  Support-article sentence MRR: 0.634
+multihop (13 examples)
+  Top-3: Sentence precision=0.359, Support-article recall=0.423, Complete=4/13
+  Top-5: Sentence precision=0.338, Support-article recall=0.538, Complete=5/13
+  Top-10: Sentence precision=0.323, Support-article recall=0.808, Complete=8/13
+  Top-20: Sentence precision=0.300, Support-article recall=0.923, Complete=11/13
+  Top-50: Sentence precision=0.277, Support-article recall=1.000, Complete=13/13
+  Support-article sentence MRR: 0.561
+set (8 examples)
+  Top-3: Sentence precision=0.375, Support-article recall=0.562, Complete=4/8
+  Top-5: Sentence precision=0.300, Support-article recall=0.562, Complete=4/8
+  Top-10: Sentence precision=0.237, Support-article recall=0.625, Complete=5/8
+  Top-20: Sentence precision=0.206, Support-article recall=0.688, Complete=5/8
+  Top-50: Sentence precision=0.195, Support-article recall=1.000, Complete=8/8
+  Support-article sentence MRR: 0.497
+
+Interpretation guidance
+------------------------------------------------------------------------------
+A larger sentence cap can improve support coverage, but it can also introduce more distractor sentences.
+The best cap should be selected using both complete-support coverage and downstream answer-generation accuracy.
+This evaluator isolates the BGE-M3 retrieval stage. No language-model API calls are made.

@@ -1,0 +1,24 @@
+RAG SYSTEM V2: BGE-M3 TOP-10 VS TOP-20
+==============================================================================
+Created UTC: 2026-07-31T14:44:43.630964+00:00
+Sample file: C:\Users\Ekalk\Desktop\NSF_REU_2026\Project\Multilingual_RAG_System\data\xrag_eval_sample_50.jsonl
+Embedding model: BAAI/bge-m3
+Generation model: gpt-5.4
+Retrieval granularity: sentence
+Conditions: [20]
+Total generated records: 50
+
+BGE-M3 Top-20
+------------------------------------------------------------------------------
+Examples generated: 50
+Average support-article recall: 0.880
+Any support retrieved: 48/50
+Complete support retrieved: 40/50
+Average answer word count: 18.5
+Answers over 35 words: 3/50
+
+Manual scoring still required
+------------------------------------------------------------------------------
+Use the review CSV to assign each answer a score:
+2 = correct, 1 = partially correct, 0 = incorrect.
+Compare Top-10 and Top-20 answer accuracy after the same questions have been scored.

@@ -1,0 +1,30 @@
+SYSTEM V3 FILTERED RETRIEVAL SUMMARY
+==============================================================================
+Examples evaluated: 1
+Embedding model: BAAI/bge-m3
+Raw candidate pool: Top-20
+Final evidence size: Top-12
+Semantic duplicate threshold: 0.92
+Maximum sentences per article: 3
+MMR lambda: 0.85
+
+RAW TOP-20
+------------------------------------------------------------------------------
+Average support recall: 1.000
+Complete support: 1/1
+Any support: 1/1
+
+FILTERED TOP-12
+------------------------------------------------------------------------------
+Average support recall: 1.000
+Complete support: 1/1
+Any support: 1/1
+Support lost after filtering: 0/1
+Average exact duplicates removed: 1.00
+Average semantic duplicates removed: 0.00
+Average unique articles in final evidence: 7.00
+
+IMPORTANT LIMITATION
+------------------------------------------------------------------------------
+XRAG provides article-level support labels rather than exact supporting-sentence labels.
+A retrieved sentence counts as support-related when it comes from a labeled support article.

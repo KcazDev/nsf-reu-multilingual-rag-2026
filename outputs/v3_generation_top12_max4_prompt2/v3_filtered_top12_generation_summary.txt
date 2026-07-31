@@ -1,0 +1,41 @@
+SYSTEM V3 FILTERED TOP-12 GENERATION SUMMARY
+==============================================================================
+Generated examples: 50
+Embedding model: BAAI/bge-m3
+Generation model: gpt-5.4
+Raw candidate pool: Top-20
+Final filtered evidence: Top-12
+Semantic duplicate threshold: 0.92
+Maximum sentences per article: 4
+MMR lambda: 0.85
+
+RETRIEVAL FOR GENERATED EXAMPLES
+------------------------------------------------------------------------------
+Raw Top-20 average support recall: 0.880
+Raw Top-20 complete support: 40/50
+Filtered Top-12 average support recall: 0.850
+Filtered Top-12 complete support: 37/50
+Support lost after filtering: 3/50
+
+GENERATION FORMAT
+------------------------------------------------------------------------------
+Average answer length: 16.2 words
+Answers over 35 words: 2/50
+
+MANUAL REVIEW
+------------------------------------------------------------------------------
+Open the review CSV and score each answer:
+2 = fully correct
+1 = partially correct
+0 = incorrect
+
+Suggested error categories:
+wrong_number
+wrong_date
+wrong_event
+incomplete_answer
+unsupported_addition
+retrieval_failure
+filtering_failure
+generation_failure
+reasoning_failure
