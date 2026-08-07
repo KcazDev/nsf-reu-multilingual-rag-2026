@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import html
+from textwrap import dedent
 from typing import Any
 
 import streamlit as st
@@ -69,7 +70,7 @@ Múnich albergó el partido inaugural del torneo. El encuentro se celebró en el
 # Modern interface styling
 # =====================================================================
 st.markdown(
-    """
+    dedent("""
     <style>
         :root {
             --panel: rgba(18, 25, 39, 0.78);
@@ -355,7 +356,7 @@ st.markdown(
             }
         }
     </style>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -498,11 +499,11 @@ with st.sidebar:
     )
 
     st.markdown(
-        """
+        dedent("""
         <div class="status-row">
             <span class="status-pill">● Backend connected</span>
         </div>
-        """,
+        """),
         unsafe_allow_html=True,
     )
 
@@ -570,7 +571,7 @@ with st.sidebar:
 # Hero
 # =====================================================================
 st.markdown(
-    """
+    dedent("""
     <section class="hero">
         <div class="hero-badge">● Final V3 Research Prototype</div>
 
@@ -592,7 +593,7 @@ st.markdown(
             <span class="pipeline-chip">GPT-5.4 answer</span>
         </div>
     </section>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -601,14 +602,14 @@ st.markdown(
 # Demonstration selector
 # =====================================================================
 st.markdown(
-    """
+    dedent("""
     <div class="section-label">Quick start</div>
     <div class="section-title">Load a demonstration</div>
     <div class="section-description">
         Try the complete pipeline instantly with a prepared Spanish
         or Arabic example.
     </div>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -658,13 +659,13 @@ st.divider()
 # Question input
 # =====================================================================
 st.markdown(
-    """
+    dedent("""
     <div class="section-label">Step 1</div>
     <div class="section-title">Ask a question</div>
     <div class="section-description">
         The answer will be generated in the same language as the question.
     </div>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -683,14 +684,14 @@ question = st.text_area(
 # Article input
 # =====================================================================
 st.markdown(
-    """
+    dedent("""
     <div class="section-label">Step 2</div>
     <div class="section-title">Provide candidate articles</div>
     <div class="section-description">
         Paste text or upload TXT, JSON, or JSONL files. Use three
         dashes on their own line to separate pasted articles.
     </div>
-    """,
+    """),
     unsafe_allow_html=True,
 )
 
@@ -837,13 +838,13 @@ if result:
     st.divider()
 
     st.markdown(
-        """
+        dedent("""
         <div class="section-label">Result</div>
         <div class="section-title">Generated answer</div>
         <div class="section-description">
             Generated from the final filtered evidence.
         </div>
-        """,
+        """),
         unsafe_allow_html=True,
     )
 
@@ -858,22 +859,22 @@ if result:
     )
 
     st.markdown(
-        f"""
+        dedent(f"""
         <div class="answer-card" dir="{answer_direction}">
             <div class="answer-label">Final answer</div>
             {safe_answer}
         </div>
-        """,
+        """),
         unsafe_allow_html=True,
     )
 
     st.markdown(
-        """
+        dedent("""
         <div class="status-row">
             <span class="status-pill">✓ Generation complete</span>
             <span class="status-pill">✓ Evidence available</span>
         </div>
-        """,
+        """),
         unsafe_allow_html=True,
     )
 
@@ -943,7 +944,7 @@ if result:
                 )
 
                 st.markdown(
-                    f"""
+                    dedent(f"""
                     <div dir="{evidence_direction}"
                          style="
                             font-size: 1.03rem;
@@ -952,7 +953,7 @@ if result:
                          ">
                         {safe_evidence}
                     </div>
-                    """,
+                    """),
                     unsafe_allow_html=True,
                 )
 
