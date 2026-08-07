@@ -22,6 +22,17 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+def render_html(markup: str) -> None:
+    """Render HTML without Streamlit Markdown treating indentation as code."""
+    cleaned = dedent(markup).strip()
+    cleaned = "\n".join(
+        line.lstrip() for line in cleaned.splitlines()
+    )
+
+    st.markdown(
+        cleaned,
+        unsafe_allow_html=True,
+    )
 
 
 # =====================================================================
@@ -570,8 +581,8 @@ with st.sidebar:
 # =====================================================================
 # Hero
 # =====================================================================
-st.markdown(
-    dedent("""
+render_html(
+    """
     <section class="hero">
         <div class="hero-badge">● Final V3 Research Prototype</div>
 
@@ -593,8 +604,7 @@ st.markdown(
             <span class="pipeline-chip">GPT-5.4 answer</span>
         </div>
     </section>
-    """),
-    unsafe_allow_html=True,
+    """
 )
 
 
